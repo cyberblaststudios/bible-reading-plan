@@ -2,11 +2,11 @@ from flask import Flask, send_from_directory, jsonify
 import bible_plan
 import sys
 
-FRONTEND_PATH = 'frontend'
+FRONTEND_PATH = 'bible-reading-plan-frontend/build'
 
 def create_app(test_config=None):
     # create and configure the app
-    app = Flask(__name__, static_folder=FRONTEND_PATH)
+    app = Flask(__name__, static_folder=FRONTEND_PATH, static_url_path='/')
 
     # loads the reading plan from the CSV file
     reading_plan = bible_plan.BiblePlan()
@@ -19,6 +19,6 @@ def create_app(test_config=None):
     @app.route('/')
     @app.route('/<path:path>')
     def serve_frontend():
-        return send_from_directory(app.static_folder, 'index.html')
+        return app.send_static_file('index.html')
     
     return app
