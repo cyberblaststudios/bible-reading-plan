@@ -28,7 +28,8 @@ function fakeFetch(date, { signal }) {
   });
 }
 
-const initialValue = dayjs('2022-04-17');
+// this willl initialize to the current date
+const initialValue = dayjs();
 
 function ServerDay(props) {
   const { highlightedDays = [], day, outsideCurrentMonth, ...other } = props;
@@ -47,7 +48,7 @@ function ServerDay(props) {
   );
 }
 
-export default function DateSelector() {
+export default function DateSelector({currentDate, readingPlan, onDateChanged}) {
   const requestAbortController = React.useRef(null);
   const [isLoading, setIsLoading] = React.useState(false);
   const [highlightedDays, setHighlightedDays] = React.useState([1, 2, 15]);
@@ -92,10 +93,13 @@ export default function DateSelector() {
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <MobileDatePicker
-        defaultValue={initialValue}
+        //defaultValue={currentDate}
+        value={currentDate}
         loading={isLoading}
         onMonthChange={handleMonthChange}
+        onChange={(value, context) => onDateChanged(value)}
         renderLoading={() => <DayCalendarSkeleton />}
+        closeOnSelect
         slots={{
           day: ServerDay,
         }}

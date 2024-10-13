@@ -1,8 +1,11 @@
 from flask import Flask, send_from_directory, jsonify
 import bible_plan
 import sys
+from os import environ
+import requests
 
 FRONTEND_PATH = 'bible-reading-plan-frontend/build'
+IS_DEV = (environ["FLASK_ENV"] == "development")
 
 def create_app(test_config=None):
     # create and configure the app
@@ -18,7 +21,7 @@ def create_app(test_config=None):
     # serves the frontend
     @app.route('/')
     @app.route('/<path:path>')
-    def serve_frontend():
+    def serve_frontend(path):
         return app.send_static_file('index.html')
-    
+                             
     return app
