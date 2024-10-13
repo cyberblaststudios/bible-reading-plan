@@ -28,7 +28,6 @@ export default function App(){
     }, [])
 
     const onDateChanged = (value) => {
-        console.log(value)
         setSelectedDate(value)
     }
 
@@ -36,7 +35,7 @@ export default function App(){
         <ThemeProvider theme={darkTheme}>
             <CssBaseline/>
                 <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
-                    <Stack spacing={1} alignSelf={'center'} width={'90%'} >
+                    <Stack spacing={1} alignSelf={'center'} width={'90%'} maxWidth={'35cm'}>
                         <Typography>Today's Reading!</Typography>
                         <Reading reading={"James 1:13"}/>
                         <Reading reading={"James 1:13"}/>
