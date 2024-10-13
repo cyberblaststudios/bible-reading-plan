@@ -28,7 +28,7 @@ function fakeFetch(date, { signal }) {
   });
 }
 
-// this willl initialize to the current date
+// this will initialize to the current date
 const initialValue = dayjs();
 
 function ServerDay(props) {

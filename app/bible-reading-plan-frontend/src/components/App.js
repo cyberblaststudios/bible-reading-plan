@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import BottomBar from './BottomBar';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
-import { CssBaseline } from '@mui/material';
+import { Box, CssBaseline, Stack, Typography } from '@mui/material';
 import { getBibleReadingPlan } from '../services/BiblePlan';
 import dayjs from 'dayjs';
+import Reading from './Reading';
 
 const darkTheme = createTheme({
     palette: {
@@ -34,6 +35,15 @@ export default function App(){
     return (
         <ThemeProvider theme={darkTheme}>
             <CssBaseline/>
+                <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
+                    <Stack spacing={1} alignSelf={'center'} width={'90%'} >
+                        <Typography>Today's Reading!</Typography>
+                        <Reading reading={"James 1:13"}/>
+                        <Reading reading={"James 1:13"}/>
+                        <Reading reading={"James 1:13"}/>
+                        <Reading reading={"James 1:13"}/>
+                    </Stack>
+                </Box>
             <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
         </ThemeProvider>
     );

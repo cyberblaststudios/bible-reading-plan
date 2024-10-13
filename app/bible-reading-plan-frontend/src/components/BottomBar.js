@@ -25,7 +25,7 @@ export default function BottomBar({readingPlan, currentSelectedDate, onDateChang
                         <IconButton color="inherit" onClick={previousDayClicked}>
                             <ArrowLeftIcon />
                         </IconButton>
-                            <DateSelector onDateChanged={(value) => onDateChanged(value)} currentDate={currentSelectedDate}/>
+                            <DateSelector onDateChanged={(value) => onDateChanged(value)} currentDate={currentSelectedDate} readingPlan={readingPlan}/>
                         <IconButton color="inherit" onClick={nextDayClicked}>
                             <ArrowRightIcon />
                         </IconButton>
