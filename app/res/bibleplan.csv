@@ -1,367 +1,731 @@
-"Date","Passage"
-"2024-11-01","Gen 1-5; Pro 1"
-"2024-11-02",""
-"2024-11-03",""
-"2024-11-04","Gen 6-10; Pro 2"
-"2024-11-05","Gen 11-16; Pro 3"
-"2024-11-06","Gen 17-20; Pro 4"
-"2024-11-07","Gen 21-24; Pro 5"
-"2024-11-08","Gen 25-27; Pro 6"
-"2024-11-09",""
-"2024-11-10",""
-"2024-11-11","Gen 28-30; Pro 7"
-"2024-11-12","Gen 31-34; Pro 8"
-"2024-11-13","Gen 35-38; Pro 9"
-"2024-11-14","Gen 39-41; Pro 10"
-"2024-11-15","Gen 42-45; Pro 11"
-"2024-11-16",""
-"2024-11-17",""
-"2024-11-18","Gen 46-49; Pro 12"
-"2024-11-19","Gen 50; Ex 1-3; Pro 13"
-"2024-11-20","Ex 4-7; Pro 14"
-"2024-11-21","Ex 8-11; Pro 15"
-"2024-11-22","Ex 12-14; Pro 16"
-"2024-11-23",""
-"2024-11-24",""
-"2024-11-25","Ex 15-19; Pro 17"
-"2024-11-26","Ex 20-23; Pro 18"
-"2024-11-27","Ex 24-27; Pro 19"
-"2024-11-28","Ex 28-29; Pro 20"
-"2024-11-29","Ex 30-33; Pro 21"
-"2024-11-30",""
-"2024-12-01",""
-"2024-12-02","Ex 34-37; Pro 22"
-"2024-12-03","Ex 38-40; Lev 1; Pro 23"
-"2024-12-04","Lev 2-5; Pro 24"
-"2024-12-05","Lev 6-8; Pro 25"
-"2024-12-06","Lev 9-12; Pro 26"
-"2024-12-07",""
-"2024-12-08",""
-"2024-12-09","Lev 13-14; Pro 27"
-"2024-12-10","Lev 15-18; Pro 28"
-"2024-12-11","Lev 19-22; Pro 29"
-"2024-12-12","Lev 23-25; Pro 30"
-"2024-12-13","Lev 26-27; Pro 31"
-"2024-12-14",""
-"2024-12-15",""
-"2024-12-16","Num 1-3; Pro 1"
-"2024-12-17","Num 4-6; Pro 2"
-"2024-12-18","Num 7-9; Pro 3"
-"2024-12-19","Num 10-13; Pro 4"
-"2024-12-20","Num 14-15; Pro 5"
-"2024-12-21",""
-"2024-12-22",""
-"2024-12-23","Num 16-19; Pro 6"
-"2024-12-24","Num 20-22; Pro 7"
-"2024-12-25","Num 23-26; Pro 8"
-"2024-12-26","Num 27-30; Pro 9"
-"2024-12-27","Num 31-33; Pro 10"
-"2024-12-28",""
-"2024-12-29",""
-"2024-12-30","Num 34-36; Deut 1; Pro 11"
-"2024-12-31","Deut 2-4; Pro 12"
-"2025-01-01","Deut 5-7; Pro 13"
-"2025-01-02","Deut 8-11; Pro 14"
-"2025-01-03","Deut 12-15; Pro 15"
-"2025-01-04",""
-"2025-01-05",""
-"2025-01-06","Deut 16-19; Pro 16"
-"2025-01-07","Deut 20-23; Pro 17"
-"2025-01-08","Deut 24-27; Pro 18"
-"2025-01-09","Deut 28-30; Pro 19"
-"2025-01-10","Deut 31-33; Pro 20"
-"2025-01-11",""
-"2025-01-12",""
-"2025-01-13","Deut 34; Josh 1-4; Pro 21"
-"2025-01-14","Josh 5-8; Pro 22"
-"2025-01-15","Josh 9-11; Pro 23"
-"2025-01-16","Josh 12-15; Pro 24"
-"2025-01-17","Josh 16-20; Pro 25"
-"2025-01-18",""
-"2025-01-19",""
-"2025-01-20","Josh 21-23; Pro 26"
-"2025-01-21","Josh 24; Jdg 1-3; Pro 27"
-"2025-01-22","Jdg 4-6; Pro 28"
-"2025-01-23","Jdg 7-9; Pro 29"
-"2025-01-24","Jdg 10-13; Pro 30"
-"2025-01-25",""
-"2025-01-26",""
-"2025-01-27","Jdg 14-17; Pro 31"
-"2025-01-28","Jdg 18-20; Pro 1"
-"2025-01-29","Jdg 21; Rut 1-3; Pro 2"
-"2025-01-30","Rut 4; 1 Sa 1-3; Pro 3"
-"2025-01-31","1 Sa 4-8; Pro 4"
-"2025-02-01",""
-"2025-02-02",""
-"2025-02-03","1 Sa 9-12; Pro 5"
-"2025-02-04","1 Sa 13-15; Pro 6"
-"2025-02-05","1 Sa 16-17; Pro 7"
-"2025-02-06","1 Sa 18-21; Pro 8"
-"2025-02-07","1 Sa 22-25; Pro 9"
-"2025-02-08",""
-"2025-02-09",""
-"2025-02-10","1 Sa 26-29; Pro 10"
-"2025-02-11","1 Sa 30-31; 2 Sa 1-2; Pro 11"
-"2025-02-12","2 Sa 3-6; Pro 12"
-"2025-02-13","2 Sa 7-11; Pro 13"
-"2025-02-14","2 Sa 12-14; Pro 14"
-"2025-02-15",""
-"2025-02-16",""
-"2025-02-17","2 Sa 15-17; Pro 15"
-"2025-02-18","2 Sa 18-20; Pro 16"
-"2025-02-19","2 Sa 21-23; Pro 17"
-"2025-02-20","2 Sa 24; 1 Kgs 1; Pro 18"
-"2025-02-21","1 Kgs 2-5; Pro 19"
-"2025-02-22",""
-"2025-02-23",""
-"2025-02-24","1 Kgs 6-7; Pro 20"
-"2025-02-25","1 Kgs 8-10; Pro 21"
-"2025-02-26","1 Kgs 11-13; Pro 22"
-"2025-02-27","1 Kgs 14-16; Pro 23"
-"2025-02-28","1 Kgs 17-19; Pro 24"
-"2025-03-01",""
-"2025-03-02",""
-"2025-03-03","1 Kgs 20-21; Pro 25"
-"2025-03-04","1 Kgs 22; 2 Kgs 1-3; Pro 26"
-"2025-03-05","2 Kgs 4-6; Pro 27"
-"2025-03-06","2 Kgs 7-9; Pro 28"
-"2025-03-07","2 Kgs 10-12; Pro 29"
-"2025-03-08",""
-"2025-03-09",""
-"2025-03-10","2 Kgs 13-15; Pro 30"
-"2025-03-11","2 Kgs 16-18; Pro 31"
-"2025-03-12","2 Kgs 19-22; Pro 1"
-"2025-03-13","2 Kgs 23-25; Pro 2"
-"2025-03-14","1 Chr 1-4; Pro 3"
-"2025-03-15",""
-"2025-03-16",""
-"2025-03-17","1 Chr 5-7; Pro 4"
-"2025-03-18","1 Chr 8-11; Pro 5"
-"2025-03-19","1 Chr 12-16; Pro 6"
-"2025-03-20","1 Chr 17-21; Pro 7"
-"2025-03-21","1 Chr 22-26; Pro 8"
-"2025-03-22",""
-"2025-03-23",""
-"2025-03-24","1 Chr 27-29; 2 Chr 1; Pro 9"
-"2025-03-25","2 Chr 2-6; Pro 10"
-"2025-03-26","2 Chr 7-9; Pro 11"
-"2025-03-27","2 Chr 10-15; Pro 12"
-"2025-03-28","2 Chr 16-20; Pro 13"
-"2025-03-29",""
-"2025-03-30",""
-"2025-03-31","2 Chr 21-24; Pro 14"
-"2025-04-01","2 Chr 25-28; Pro 15"
-"2025-04-02","2 Chr 29-31; Pro 16"
-"2025-04-03","2 Chr 32-34; Pro 17"
-"2025-04-04","2 Chr 35-36; Ezr 1-2; Pro 18"
-"2025-04-05",""
-"2025-04-06",""
-"2025-04-07","Ezr 3-7; Pro 19"
-"2025-04-08","Ezr 8-10; Pro 20"
-"2025-04-09","Neh 1-5; Pro 21"
-"2025-04-10","Neh 6-8; Pro 22"
-"2025-04-11","Neh 9-12; Pro 23"
-"2025-04-12",""
-"2025-04-13",""
-"2025-04-14","Neh 13; Est 1-2; Pro 24"
-"2025-04-15","Est 3-8; Pro 25"
-"2025-04-16","Est 9-10; Job 1-5; Pro 26"
-"2025-04-17","Job 6-12; Pro 27"
-"2025-04-18","Job 13-19; Pro 28"
-"2025-04-19",""
-"2025-04-20",""
-"2025-04-21","Job 20-27; Pro 29"
-"2025-04-22","Job 28-33; Pro 30"
-"2025-04-23","Job 34-40; Pro 31"
-"2025-04-24","Job 41-42; Ps 1-9; Pro 1"
-"2025-04-25","Ps 10-20; Pro 2"
-"2025-04-26",""
-"2025-04-27",""
-"2025-04-28","Ps 21-31; Pro 3"
-"2025-04-29","Ps 32-39; Pro 4"
-"2025-04-30","Ps 40-50; Pro 5"
-"2025-05-01","Ps 51-61; Pro 6"
-"2025-05-02","Ps 62-71; Pro 7"
-"2025-05-03",""
-"2025-05-04",""
-"2025-05-05","Ps 72-78; Pro 8"
-"2025-05-06","Ps 79-88; Pro 9"
-"2025-05-07","Ps 89-101; Pro 10"
-"2025-05-08","Ps 102-106; Pro 11"
-"2025-05-09","Ps 107-118; Pro 12"
-"2025-05-10",""
-"2025-05-11",""
-"2025-05-12","Ps 119-126; Pro 13"
-"2025-05-13","Ps 127-142; Pro 14"
-"2025-05-14","Ps 143-150; Pro 1-3"
-"2025-05-15","Pro 4-10"
-"2025-05-16","Pro 11-16"
-"2025-05-17",""
-"2025-05-18",""
-"2025-05-19","Pro 17-22"
-"2025-05-20","Pro 23-28"
-"2025-05-21","Pro 29-31; Ecc 1-3"
-"2025-05-22","Ecc 4-9; Pro 15"
-"2025-05-23","Ecc 10-12; Sos 1-5; Pro 16"
-"2025-05-24",""
-"2025-05-25",""
-"2025-05-26","Sos 6-8; Isa 1-4; Pro 17"
-"2025-05-27","Isa 5-9; Pro 18"
-"2025-05-28","Isa 10-15; Pro 19"
-"2025-05-29","Isa 16-22; Pro 20"
-"2025-05-30","Isa 23-28; Pro 21"
-"2025-05-31",""
-"2025-06-01",""
-"2025-06-02","Isa 29-32; Pro 22"
-"2025-06-03","Isa 33-37; Pro 23"
-"2025-06-04","Isa 38-42; Pro 24"
-"2025-06-05","Isa 43-47; Pro 25"
-"2025-06-06","Isa 48-51; Pro 26"
-"2025-06-07",""
-"2025-06-08",""
-"2025-06-09","Isa 52-58; Pro 27"
-"2025-06-10","Isa 59-64; Pro 28"
-"2025-06-11","Isa 65-66; Jer 1-2; Pro 29"
-"2025-06-12","Jer 3-6; Pro 30"
-"2025-06-13","Jer 7-9; Pro 31"
-"2025-06-14",""
-"2025-06-15",""
-"2025-06-16","Jer 10-14; Pro 1"
-"2025-06-17","Jer 15-18; Pro 2"
-"2025-06-18","Jer 19-22; Pro 3"
-"2025-06-19","Jer 23-26; Pro 4"
-"2025-06-20","Jer 27-30; Pro 5"
-"2025-06-21",""
-"2025-06-22",""
-"2025-06-23","Jer 31-32; Pro 6"
-"2025-06-24","Jer 33-36; Pro 7"
-"2025-06-25","Jer 37-40; Pro 8"
-"2025-06-26","Jer 41-44; Pro 9"
-"2025-06-27","Jer 45-48; Pro 10"
-"2025-06-28",""
-"2025-06-29",""
-"2025-06-30","Jer 49-50; Pro 11"
-"2025-07-01","Jer 51-52; Lam 1; Pro 12"
-"2025-07-02","Lam 2-5; Pro 13"
-"2025-07-03","Eze 1-5; Pro 14"
-"2025-07-04","Eze 6-10; Pro 15"
-"2025-07-05",""
-"2025-07-06",""
-"2025-07-07","Eze 11-15; Pro 16"
-"2025-07-08","Eze 16-17; Pro 17"
-"2025-07-09","Eze 18-20; Pro 18"
-"2025-07-10","Eze 21-23; Pro 19"
-"2025-07-11","Eze 24-27; Pro 20"
-"2025-07-12",""
-"2025-07-13",""
-"2025-07-14","Eze 28-31; Pro 21"
-"2025-07-15","Eze 32-35; Pro 22"
-"2025-07-16","Eze 36-38; Pro 23"
-"2025-07-17","Eze 39-41; Pro 24"
-"2025-07-18","Eze 42-44; Pro 25"
-"2025-07-19",""
-"2025-07-20",""
-"2025-07-21","Eze 45-48; Pro 26"
-"2025-07-22","Dan 1-3; Pro 27"
-"2025-07-23","Dan 4-5; Pro 28"
-"2025-07-24","Dan 6-8; Pro 29"
-"2025-07-25","Dan 9-12; Pro 30"
-"2025-07-26",""
-"2025-07-27",""
-"2025-07-28","Hos 1-8; Pro 31"
-"2025-07-29","Hos 9-14; Joe 1; Pro 1"
-"2025-07-30","Joe 2-3; Amo 1-4; Pro 2"
-"2025-07-31","Amo 5-9; Oba; Pro 3"
-"2025-08-01","Jon 1-4; Mic 1-4; Pro 4"
-"2025-08-02",""
-"2025-08-03",""
-"2025-08-04","Mic 5-7; Nah 1-3; Hab 1; Pro 5"
-"2025-08-05","Hab 2-3; Zep 1-3; Hag 1; Pro 6"
-"2025-08-06","Hag 2; Zec 1-6; Pro 7"
-"2025-08-07","Zec 7-12; Pro 8"
-"2025-08-08","Zec 13-14; Mal 1-4; Mat 1; Pro 9"
-"2025-08-09",""
-"2025-08-10",""
-"2025-08-11","Mat 2-5; Pro 10"
-"2025-08-12","Mat 6-9; Pro 11"
-"2025-08-13","Mat 10-12; Pro 12"
-"2025-08-14","Mat 13-16; Pro 13"
-"2025-08-15","Mat 17-20; Pro 14"
-"2025-08-16",""
-"2025-08-17",""
-"2025-08-18","Mat 21-23; Pro 15"
-"2025-08-19","Mat 24-26; Pro 16"
-"2025-08-20","Mat 27-28; Mk 1; Pro 17"
-"2025-08-21","Mk 2-5; Pro 18"
-"2025-08-22","Mk 6-8; Pro 19"
-"2025-08-23",""
-"2025-08-24",""
-"2025-08-25","Mk 9-11; Pro 20"
-"2025-08-26","Mk 12-14; Pro 21"
-"2025-08-27","Mk 15-16; Luk 1; Pro 22"
-"2025-08-28","Luk 2-3; Pro 23"
-"2025-08-29","Luk 4-6; Pro 24"
-"2025-08-30",""
-"2025-08-31",""
-"2025-09-01","Luk 7-9; Pro 25"
-"2025-09-02","Luk 10-11; Pro 26"
-"2025-09-03","Luk 12-14; Pro 27"
-"2025-09-04","Luk 15-18; Pro 28"
-"2025-09-05","Luk 19-21; Pro 29"
-"2025-09-06",""
-"2025-09-07",""
-"2025-09-08","Luk 22-24; Pro 30"
-"2025-09-09","John 1-3; Pro 31"
-"2025-09-10","John 4-6; Pro 1"
-"2025-09-11","John 7-9; Pro 2"
-"2025-09-12","John 10-12; Pro 3"
-"2025-09-13",""
-"2025-09-14",""
-"2025-09-15","John 13-15; Pro 4"
-"2025-09-16","John 16-19; Pro 5"
-"2025-09-17","John 20-21; Acts 1-2; Pro 6"
-"2025-09-18","Acts 3-6; Pro 7"
-"2025-09-19","Acts 7-9; Pro 8"
-"2025-09-20",""
-"2025-09-21",""
-"2025-09-22","Acts 10-12; Pro 9"
-"2025-09-23","Acts 13-16; Pro 10"
-"2025-09-24","Acts 17-19; Pro 11"
-"2025-09-25","Acts 20-22; Pro 12"
-"2025-09-26","Acts 23-26; Pro 13"
-"2025-09-27",""
-"2025-09-28",""
-"2025-09-29","Acts 27-28; Rom 1-2; Pro 14"
-"2025-09-30","Rom 3-7; Pro 15"
-"2025-10-01","Rom 8-12; Pro 16"
-"2025-10-02","Rom 13-16; 1 Co 1-2; Pro 17"
-"2025-10-03","1 Co 3-7; Pro 18"
-"2025-10-04",""
-"2025-10-05",""
-"2025-10-06","1 Co 8-12; Pro 19"
-"2025-10-07","1 Co 13-16; Pro 20"
-"2025-10-08","2 Co 1-7; Pro 21"
-"2025-10-09","2 Co 8-13; Pro 22"
-"2025-10-10","Gal 1-5; Pro 23"
-"2025-10-11",""
-"2025-10-12",""
-"2025-10-13","Gal 6; Eph 1-5; Pro 24"
-"2025-10-14","Eph 6; Phil 1-4; Col 1; Pro 25"
-"2025-10-15","Col 2-4; 1 Th 1-4; Pro 26"
-"2025-10-16","1 Th 5; 2 Th 1-3; 1 Ti 1-4; Pro 27"
-"2025-10-17","1 Ti 5-6; 2 Ti 1-4; Tit 1; Pro 28"
-"2025-10-18",""
-"2025-10-19",""
-"2025-10-20","Tit 2-3; Phlm; Heb 1-5; Pro 29"
-"2025-10-21","Heb 6-10; Pro 30"
-"2025-10-22","Heb 11-13; Jam 1-2; Pro 31"
-"2025-10-23","Jam 3-5; 1 Pe 1-3; Pro 1"
-"2025-10-24","1 Pe 4-5; 2 Pe 1-3; 1 Jn 1; Pro 2"
-"2025-10-25",""
-"2025-10-26",""
-"2025-10-27","1 Jn 2-5; 2 Jn; 3 Jn; Jude; Pro 3"
-"2025-10-28","Rev 1-5; Pro 4"
-"2025-10-29","Rev 6-11; Pro 5"
-"2025-10-30","Rev 12-17; Pro 6"
-"2025-10-31","Rev 18-22; Pro 7"
-"2025-11-01",""
+DATE,PASSAGE 1,VIDEO 1,VIDEO 2,VIDEO 3,VIDEO 4 (PROVERB)
+1/1/2025,Genesis 1-2; Proverbs 1,https://youtu.be/GQI72THyO5I?si=_EBlpRIv-XbuD-WI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+1/2/2025,Genesis 3-5; Proverbs 2,https://youtu.be/GQI72THyO5I?si=_EBlpRIv-XbuD-WI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+1/3/2025,Genesis 6-7; Proverbs 3,https://youtu.be/GQI72THyO5I?si=_EBlpRIv-XbuD-WI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+1/4/2025,,,,,
+1/5/2025,,,,,
+1/6/2025,Genesis 8-10; Proverbs 4,https://youtu.be/GQI72THyO5I?si=_EBlpRIv-XbuD-WI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+1/7/2025,Genesis 11; Job 1-2; Proverbs 5,https://youtu.be/GQI72THyO5I?si=_EBlpRIv-XbuD-WI,https://youtu.be/xQwnH8th_fs?si=cHYVnrGpMknjgz8t,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+1/8/2025,Job 3-5; Proverbs 6,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+1/9/2025,Job 6-9; Proverbs 7,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+1/10/2025,Job 10-13; Proverbs 8,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN43
+1/11/2025,,,,,
+1/12/2025,,,,,
+1/13/2025,Job 14-16; Proverbs 9,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+1/14/2025,Job 17-20; Proverbs 10,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+1/15/2025,Job 21-23; Proverbs 11,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+1/16/2025,Job 24-28; Proverbs 12,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+1/17/2025,Job 29-31; Proverbs 13,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+1/18/2025,,,,,
+1/19/2025,,,,,
+1/20/2025,Job 32-34; Proverbs 14,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+1/21/2025,Job 35-37; Proverbs 15,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+1/22/2025,Job 38-40; Proverbs 16,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+1/23/2025,Job 41-42; Genesis 12-13; Proverbs 17,https://youtu.be/xQwnH8th_fs?si=3nYxl4-gLyp4ydAS,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw0,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+1/24/2025,Genesis 14-16; Proverbs 18,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw0,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+1/25/2025,,,,,
+1/26/2025,,,,,
+1/27/2025,Genesis 17-18; Proverbs 19,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw0,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+1/28/2025,Genesis 19-20; Proverbs 20,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw1,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+1/29/2025,Genesis 21-22; Proverbs 21,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+1/30/2025,Genesis 23-24; Proverbs 22,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw3,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+1/31/2025,Genesis 25; Proverbs 23,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw4,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+2/1/2025,,,,,
+2/2/2025,,,,,
+2/3/2025,Genesis 26-27; Proverbs 24,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw4,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+2/4/2025,Genesis 28-29; Proverbs 25,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw5,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+2/5/2025,Genesis 30; Proverbs 26,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw6,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+2/6/2025,Genesis 31; Proverbs 27,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw7,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+2/7/2025,Genesis 32-34; Proverbs 28,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw8,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+2/8/2025,,,,,
+2/9/2025,,,,,
+2/10/2025,Genesis 35-36; Proverbs 29,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw8,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+2/11/2025,Genesis 37; Proverbs 30,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw9,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+2/12/2025,Genesis 38-40; Proverbs 31,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw10,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+2/13/2025,Genesis 41; Proverbs 1,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw11,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+2/14/2025,Genesis 42-43; Proverbs 2,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw12,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN43
+2/15/2025,,,,,
+2/16/2025,,,,,
+2/17/2025,Genesis 44; Proverbs 3,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw12,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+2/18/2025,Genesis 45-46; Proverbs 4,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw13,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+2/19/2025,Genesis 47-48; Proverbs 5,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw14,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+2/20/2025,Genesis 49-50; Exodus 1; Proverbs 6,https://youtu.be/F4isSyennFo?si=ANypIbzn5rlmssw15,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+2/21/2025,Exodus 2-3; Proverbs 7,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+2/22/2025,,,,,
+2/23/2025,,,,,
+2/24/2025,Exodus 4-5; Proverbs 8,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+2/25/2025,Exodus 6-7; Proverbs 9,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+2/26/2025,Exodus 8-9; Proverbs 10,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+2/27/2025,Exodus 10-11; Proverbs 11,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+2/28/2025,Exodus 12; Proverbs 12,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN43
+3/1/2025,,,,,
+3/2/2025,,,,,
+3/3/2025,Exodus 13-14; Proverbs 13,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN39
+3/4/2025,Exodus 15-16; Proverbs 14,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN40
+3/5/2025,Exodus 17-18; Proverbs 15,https://youtu.be/jH_aojNJM3E?si=fQFKyhbdFIuhNUIi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN41
+3/6/2025,Exodus 19-21; Proverbs 16,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN42
+3/7/2025,Exodus 22; Proverbs 17,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN43
+3/8/2025,,,,,
+3/9/2025,,,,,
+3/10/2025,Exodus 23-25; Proverbs 18,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN46
+3/11/2025,Exodus 26; Proverbs 19,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN47
+3/12/2025,Exodus 27-28; Proverbs 20,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN48
+3/13/2025,Exodus 29; Proverbs 21,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN49
+3/14/2025,Exodus 30-31; Proverbs 22,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN50
+3/15/2025,,,,,
+3/16/2025,,,,,
+3/17/2025,Exodus 32-33; Proverbs 23,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN53
+3/18/2025,Exodus 34-35; Proverbs 24,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN54
+3/19/2025,Exodus 36-37; Proverbs 25,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN55
+3/20/2025,Exodus 38; Proverbs 26,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN56
+3/21/2025,Exodus 39-40; Proverbs 27,https://youtu.be/oNpTha80yyE?si=6RWYRwdGaJNjDr5i,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN57
+3/22/2025,,,,,
+3/23/2025,,,,,
+3/24/2025,Leviticus 1-3; Proverbs 28,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN60
+3/25/2025,Leviticus 4-5; Proverbs 29,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN61
+3/26/2025,Leviticus 6-7; Proverbs 30,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN62
+3/27/2025,Leviticus 8; Proverbs 31,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN63
+3/28/2025,Leviticus 9-10; Proverbs 1,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN64
+3/29/2025,,,,,
+3/30/2025,,,,,
+3/31/2025,Leviticus 11-12; Proverbs 2,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN67
+4/1/2025,Leviticus 13; Proverbs 3,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN68
+4/2/2025,Leviticus 14; Proverbs 4,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN69
+4/3/2025,Leviticus 15-16; Proverbs 5,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN70
+4/4/2025,Leviticus 17-18; Proverbs 6,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN71
+4/5/2025,,,,,
+4/6/2025,,,,,
+4/7/2025,Leviticus 19; Proverbs 7,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN74
+4/8/2025,Leviticus 20-22; Proverbs 8,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN75
+4/9/2025,Leviticus 23; Proverbs 9,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN76
+4/10/2025,Leviticus 24-25; Proverbs 10,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN77
+4/11/2025,Leviticus 26; Proverbs 11,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN78
+4/12/2025,,,,,
+4/13/2025,,,,,
+4/14/2025,Leviticus 27; Proverbs 12,https://youtu.be/IJ-FekWUZzE?si=55WsoW069Gk15IFx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN81
+4/15/2025,Numbers 1; Proverbs 13,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN82
+4/16/2025,Numbers 2-3; Proverbs 14,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN83
+4/17/2025,Numbers 4; Proverbs 15,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN84
+4/18/2025,Numbers 5-6; Proverbs 16,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN85
+4/19/2025,,,,,
+4/20/2025,,,,,
+4/21/2025,Numbers 7; Proverbs 17,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN88
+4/22/2025,Numbers 8; Proverbs 18,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN89
+4/23/2025,Numbers 9-10; Proverbs 19,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN90
+4/24/2025,Numbers 11-13; Proverbs 20,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN91
+4/25/2025,Numbers 14; Proverbs 21,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN92
+4/26/2025,,,,,
+4/27/2025,,,,,
+4/28/2025,Numbers 15; Psalms 90; Proverbs 22,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN95
+4/29/2025,Numbers 16-17; Proverbs 23,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN96
+4/30/2025,Numbers 18-19; Proverbs 24,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN97
+5/1/2025,Numbers 20; Proverbs 25,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN98
+5/2/2025,Numbers 21-22; Proverbs 26,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN99
+5/3/2025,,,,,
+5/4/2025,,,,,
+5/5/2025,Numbers 23-24; Proverbs 27,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN102
+5/6/2025,Numbers 25-26; Proverbs 28,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN103
+5/7/2025,Numbers 27-28; Proverbs 29,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN104
+5/8/2025,Numbers 29-30; Proverbs 30,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN105
+5/9/2025,Numbers 31; Proverbs 31,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN106
+5/10/2025,,,,,
+5/11/2025,,,,,
+5/12/2025,Numbers 32-33; Proverbs 1,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN109
+5/13/2025,Numbers 34-35; Proverbs 2,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN110
+5/14/2025,Numbers 36; Deuteronomy 1; Proverbs 3,https://youtu.be/tp5MIrMZFqo?si=r8LKqPjhnSwoLbcJ,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od2,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN111
+5/15/2025,Deuteronomy 2; Proverbs 4,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN112
+5/16/2025,Deuteronomy 3; Proverbs 5,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od3,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN113
+5/17/2025,,,,,
+5/18/2025,,,,,
+5/19/2025,Deuteronomy 4-5; Proverbs 6,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN116
+5/20/2025,Deuteronomy 6-7; Proverbs 7,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od3,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN117
+5/21/2025,Deuteronomy 8-9; Proverbs 8,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od4,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN118
+5/22/2025,Deuteronomy 10-11; Proverbs 9,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od5,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN119
+5/23/2025,Deuteronomy 12; Proverbs 10,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od6,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN120
+5/24/2025,,,,,
+5/25/2025,,,,,
+5/26/2025,Deuteronomy 13-14; Proverbs 11,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN123
+5/27/2025,Deuteronomy 15-16; Proverbs 12,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od3,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN124
+5/28/2025,Deuteronomy 17-19; Proverbs 13,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od4,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN125
+5/29/2025,Deuteronomy 20-21; Proverbs 14,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od5,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN126
+5/30/2025,Deuteronomy 22-23; Proverbs 15,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od6,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN127
+5/31/2025,,,,,
+6/1/2025,,,,,
+6/2/2025,Deuteronomy 24-25; Proverbs 16,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN130
+6/3/2025,Deuteronomy 26-27; Proverbs 17,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od3,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN131
+6/4/2025,Deuteronomy 28; Proverbs 18,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od4,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN132
+6/5/2025,Deuteronomy 29; Proverbs 19,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od5,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN133
+6/6/2025,Deuteronomy 30-31; Proverbs 20,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od6,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN134
+6/7/2025,,,,,
+6/8/2025,,,,,
+6/9/2025,Deuteronomy 32; Proverbs 21,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN137
+6/10/2025,Deuteronomy 33-34; Psalms 91; Joshua 1; Proverbs 22,https://youtu.be/q5QEH9bH8AU?si=ryiJpbBLZr1f2Od3,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN138
+6/11/2025,Joshua 2-3; Proverbs 23,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN139
+6/12/2025,Joshua 4-5; Proverbs 24,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN140
+6/13/2025,Joshua 6-7; Proverbs 25,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN141
+6/14/2025,,,,,
+6/15/2025,,,,,
+6/16/2025,Joshua 8; Proverbs 26,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN144
+6/17/2025,Joshua 9-10; Proverbs 27,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN145
+6/18/2025,Joshua 11-12; Proverbs 28,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN146
+6/19/2025,Joshua 13-14; Proverbs 29,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN147
+6/20/2025,Joshua 15-17; Proverbs 30,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN148
+6/21/2025,,,,,
+6/22/2025,,,,,
+6/23/2025,Joshua 18-19; Proverbs 31,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN151
+6/24/2025,Joshua 20-21; Proverbs 1,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN152
+6/25/2025,Joshua 22; Proverbs 2,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN153
+6/26/2025,Joshua 23-24; Proverbs 3,https://youtu.be/JqOqJlFF_eU?si=G1ukbRr72qXlq7ux,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN154
+6/27/2025,Judges 1-2; Proverbs 4,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN155
+6/28/2025,,,,,
+6/29/2025,,,,,
+6/30/2025,Judges 3-4; Proverbs 5,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN158
+7/1/2025,Judges 5; Proverbs 6,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN159
+7/2/2025,Judges 6-7; Proverbs 7,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN160
+7/3/2025,Judges 8; Proverbs 8,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN161
+7/4/2025,Judges 9-10; Proverbs 9,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN162
+7/5/2025,,,,,
+7/6/2025,,,,,
+7/7/2025,Judges 11; Proverbs 10,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN165
+7/8/2025,Judges 12-14; Proverbs 11,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN166
+7/9/2025,Judges 15-16; Proverbs 12,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN167
+7/10/2025,Judges 17-18; Proverbs 13,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN168
+7/11/2025,Judges 19; Proverbs 14,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN169
+7/12/2025,,,,,
+7/13/2025,,,,,
+7/14/2025,Judges 20; Proverbs 15,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN172
+7/15/2025,Judges 21; Ruth 1; Proverbs 16,https://youtu.be/kOYy8iCfIJ4?si=4FiQDbkj4tK7QSkH,https://youtu.be/0h1eoBeR4Jk?si=OFd6iCxjzg-TXLAZ,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN173
+7/16/2025,Ruth 2-4; Proverbs 17,https://youtu.be/0h1eoBeR4Jk?si=OFd6iCxjzg-TXLAZ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN174
+7/17/2025,1 Samuel 1-2; Proverbs 18,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN175
+7/18/2025,1 Samuel 3-4; Proverbs 19,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN176
+7/19/2025,,,,,
+7/20/2025,,,,,
+7/21/2025,1 Samuel 5-6; Proverbs 20,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN179
+7/22/2025,1 Samuel 7-9; Proverbs 21,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN180
+7/23/2025,1 Samuel 10; Proverbs 22,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN181
+7/24/2025,1 Samuel 11-13; Proverbs 23,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN182
+7/25/2025,1 Samuel 14; Proverbs 24,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN183
+7/26/2025,,,,,
+7/27/2025,,,,,
+7/28/2025,1 Samuel 15; Proverbs 25,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN186
+7/29/2025,1 Samuel 16-17; Proverbs 26,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN187
+7/30/2025,1 Samuel 18; Proverbs 27,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN188
+7/31/2025,1 Samuel 19-20; Proverbs 28,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN189
+8/1/2025,"Psalms 11, 59; 1 Samuel 21; Proverbs 29",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN190
+8/2/2025,,,,,
+8/3/2025,,,,,
+8/4/2025,1 Samuel 22-23; Proverbs 30,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN193
+8/5/2025,"1 Samuel 24; Psalms 7, 27, 31; Proverbs 31",https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN194
+8/6/2025,"Psalms 34, 52, 56, 120, 140-141; Proverbs 1",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN195
+8/7/2025,Psalms 142; 1 Samuel 25; Proverbs 2,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN196
+8/8/2025,1 Samuel 26-27; Proverbs 3,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN197
+8/9/2025,,,,,
+8/10/2025,,,,,
+8/11/2025,"Psalms 17, 35, 54, 63; 1 Samuel 28; Proverbs 4",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN200
+8/12/2025,1 Samuel 29-30; Proverbs 5,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN201
+8/13/2025,1 Samuel 31; Psalms 18; Proverbs 6,https://youtu.be/QJOju5Dw0V0?si=hTJLJ0uoyGLTi37_,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN202
+8/14/2025,"Psalms 121, 123-125, 128-130; 2 Samuel 1; Proverbs 7",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN203
+8/15/2025,2 Samuel 2-3; Proverbs 8,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN204
+8/16/2025,,,,,
+8/17/2025,,,,,
+8/18/2025,"2 Samuel 4; Psalms 6, 8-9; Proverbs 9",https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN207
+8/19/2025,"Psalms 10, 14, 16, 19, 21; Proverbs 10",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN208
+8/20/2025,1 Chronicles 1-2; Proverbs 11,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN209
+8/21/2025,"Psalms 43-45, 49, 84; Proverbs 12",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN210
+8/22/2025,"Psalms 85, 87; 1 Chronicles 3-4; Proverbs 13",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN211
+8/23/2025,,,,,
+8/24/2025,,,,,
+8/25/2025,"1 Chronicles 5; Psalms 73, 77; Proverbs 14",https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN214
+8/26/2025,Psalms 78; Proverbs 15,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN215
+8/27/2025,"1 Chronicles 6; Psalms 81, 88; Proverbs 16",https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN216
+8/28/2025,Psalms 92-93; 1 Chronicles 7-8; Proverbs 17,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN217
+8/29/2025,1 Chronicles 9-10; Proverbs 18,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN218
+8/30/2025,,,,,
+8/31/2025,,,,,
+9/1/2025,Psalms 102-104; Proverbs 19,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN221
+9/2/2025,2 Samuel 5; 1 Chronicles 11; Proverbs 20,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN222
+9/3/2025,1 Chronicles 12; Psalms 133; Proverbs 21,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN223
+9/4/2025,Psalms 106-107; 1 Chronicles 13; Proverbs 22,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN224
+9/5/2025,1 Chronicles 14-16; Proverbs 23,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN225
+9/6/2025,,,,,
+9/7/2025,,,,,
+9/8/2025,"Psalms 1-2, 15, 22-23; Proverbs 24",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN228
+9/9/2025,"Psalms 24, 47, 68, 89; Proverbs 25",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN229
+9/10/2025,"Psalms 96, 100-101, 105; Proverbs 26",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN230
+9/11/2025,Psalms 132; 2 Samuel 6-7; Proverbs 27,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN231
+9/12/2025,"1 Chronicles 17; Psalms 25, 29; Proverbs 28",https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN232
+9/13/2025,,,,,
+9/14/2025,,,,,
+9/15/2025,"Psalms 33, 36, 39; 2 Samuel 8; Proverbs 29",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN235
+9/16/2025,"2 Samuel 9; 1 Chronicles 18; Psalms 50, 53, 60; Proverbs 30",https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN236
+9/17/2025,Psalms 75; 2 Samuel 10; 1 Chronicles 19; Psalms 20; Proverbs 31,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN237
+9/18/2025,"Psalms 65-67, 69-70; Proverbs 1",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN238
+9/19/2025,2 Samuel 11-12; Proverbs 2,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN239
+9/20/2025,,,,,
+9/21/2025,,,,,
+9/22/2025,"1 Chronicles 20; Psalms 32, 51, 86, 122; Proverbs 3",https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN242
+9/23/2025,2 Samuel 13; Proverbs 4,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN243
+9/24/2025,2 Samuel 14-15; Proverbs 5,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN244
+9/25/2025,"Psalms 3-4, 12-13, 28, 55; Proverbs 6",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN245
+9/26/2025,2 Samuel 16-17; Proverbs 7,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN246
+9/27/2025,,,,,
+9/28/2025,,,,,
+9/29/2025,2 Samuel 18; Psalms 26; Proverbs 8,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN249
+9/30/2025,"Psalms 40, 58, 61-62, 64; Proverbs 9",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN250
+10/1/2025,2 Samuel 19; Proverbs 10,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN251
+10/2/2025,2 Samuel 20-21; Psalms 5; Proverbs 11,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN252
+10/3/2025,"Psalms 38, 41-42; 2 Samuel 22; Proverbs 12",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN253
+10/4/2025,,,,,
+10/5/2025,,,,,
+10/6/2025,2 Samuel 23; Psalms 57; Proverbs 13,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN256
+10/7/2025,"Psalms 95, 97-99; 2 Samuel 24; Proverbs 14",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/YvoWDXNDJgs?si=k7AGsXLFQH657vDI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN257
+10/8/2025,1 Chronicles 21-22; Proverbs 15,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN258
+10/9/2025,"Psalms 30, 108-110; 1 Chronicles 23; Proverbs 16",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN259
+10/10/2025,"1 Chronicles 24-25; Psalms 131, 138; Proverbs 17",https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN260
+10/11/2025,,,,,
+10/12/2025,,,,,
+10/13/2025,"Psalms 139, 143-145; Proverbs 18",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN263
+10/14/2025,1 Chronicles 26-27; Proverbs 19,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN264
+10/15/2025,1 Chronicles 28-29; Proverbs 20,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN265
+10/16/2025,"Psalms 127, 111-117; Proverbs 21",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN266
+10/17/2025,Psalms 118; 1 Kings 1; Proverbs 22,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN267
+10/18/2025,,,,,
+10/19/2025,,,,,
+10/20/2025,1 Kings 2; Proverbs 23,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN270
+10/21/2025,"Psalms 37, 71; Proverbs 24",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN271
+10/22/2025,"Psalms 94, 119; Proverbs 25",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN272
+10/23/2025,1 Kings 3-4; 2 Chronicles 1; Proverbs 26,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN273
+10/24/2025,Psalms 72; Proverbs 27,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN274
+10/25/2025,,,,,
+10/26/2025,,,,,
+10/27/2025,Song of Songs 1-3; Proverbs 28,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN277
+10/28/2025,Song of Songs 4-7; Proverbs 29,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN278
+10/29/2025,Song of Songs 8; Proverbs 30,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN279
+10/30/2025,1 Kings 5; Proverbs 31,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN280
+10/31/2025,1 Kings 6; Proverbs 1,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN281
+11/1/2025,,,,,
+11/2/2025,,,,,
+11/3/2025,2 Chronicles 2-3; Proverbs 2,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN284
+11/4/2025,1 Kings 7; Proverbs 3,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN285
+11/5/2025,2 Chronicles 4; Proverbs 4,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN286
+11/6/2025,1 Kings 8; Proverbs 5,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN287
+11/7/2025,2 Chronicles 5; Proverbs 6,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN288
+11/8/2025,,,,,
+11/9/2025,,,,,
+11/10/2025,2 Chronicles 6-7; Proverbs 7,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN291
+11/11/2025,"Psalms 136, 134; Proverbs 8",https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN292
+11/12/2025,Psalms 146-150; Proverbs 9,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN293
+11/13/2025,1 Kings 9; Proverbs 10,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN294
+11/14/2025,2 Chronicles 8; Proverbs 11,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN295
+11/15/2025,,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN296
+11/16/2025,,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN297
+11/17/2025,Ecclesiastes 1; Proverbs 12,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN298
+11/18/2025,Ecclesiastes 2; Proverbs 13,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN299
+11/19/2025,Ecclesiastes 3; Proverbs 14,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN300
+11/20/2025,Ecclesiastes 4; Proverbs 15,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN301
+11/21/2025,Ecclesiastes 5; Proverbs 16,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN302
+11/22/2025,,,,,
+11/23/2025,,,,,
+11/24/2025,Ecclesiastes 6-7; Proverbs 17,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN305
+11/25/2025,Ecclesiastes 8-9; Proverbs 18,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN306
+11/26/2025,Ecclesiastes 10-11; Proverbs 19,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN307
+11/27/2025,Ecclesiastes 12; 1 Kings 10; Proverbs 20,https://youtu.be/lrsQ1tc-2wk?si=xmOtn2NafRbPP2cQ,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN308
+11/28/2025,1 Kings 11; 2 Chronicles 9; Proverbs 21,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN309
+11/29/2025,,,,,
+11/30/2025,,,,,
+12/1/2025,1 Kings 12; Proverbs 22,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN312
+12/2/2025,1 Kings 13; Proverbs 23,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN313
+12/3/2025,1 Kings 14; Proverbs 24,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN314
+12/4/2025,2 Chronicles 10-12; Proverbs 25,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN315
+12/5/2025,1 Kings 15; 2 Chronicles 13; Proverbs 26,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN316
+12/6/2025,,,,,
+12/7/2025,,,,,
+12/8/2025,2 Chronicles 14-16; Proverbs 27,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN319
+12/9/2025,1 Kings 16; 2 Chronicles 17; Proverbs 28,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN320
+12/10/2025,1 Kings 17-18; Proverbs 29,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN321
+12/11/2025,1 Kings 19; Proverbs 30,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN322
+12/12/2025,1 Kings 20; Proverbs 31,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN323
+12/13/2025,,,,,
+12/14/2025,,,,,
+12/15/2025,1 Kings 21-22; Proverbs 1,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN326
+12/16/2025,2 Chronicles 18; Proverbs 2,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN327
+12/17/2025,2 Chronicles 19-20; Proverbs 3,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN328
+12/18/2025,2 Chronicles 21-23; Proverbs 4,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN329
+12/19/2025,Obadiah; Psalms 82-83; Proverbs 5,https://youtu.be/i4ogCrEoG5s?si=mhoMBg-vFa5rcEtk,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN330
+12/20/2025,,,,,
+12/21/2025,,,,,
+12/22/2025,2 Kings 1-2; Proverbs 6,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN333
+12/23/2025,2 Kings 3-4; Proverbs 7,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN334
+12/24/2025,2 Kings 5; Proverbs 8,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN335
+12/25/2025,2 Kings 6-7; Proverbs 9,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN336
+12/26/2025,2 Kings 8; Proverbs 10,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN337
+12/27/2025,,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN338
+12/28/2025,,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN339
+12/29/2025,2 Kings 9-10; Proverbs 11,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN340
+12/30/2025,2 Kings 11; Proverbs 12,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN341
+12/31/2025,2 Kings 12-13; Proverbs 13,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN342
+1/1/2026,2 Chronicles 24; 2 Kings 14; Proverbs 14,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN343
+1/2/2026,2 Chronicles 25; Jonah 1; Proverbs 15,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/dLIabZc0O4c?si=dse9F-Ps4_lIoPCV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN344
+1/3/2026,,,,,
+1/4/2026,,,,,
+1/5/2026,Jonah 2-4; 2 Kings 15; Proverbs 16,https://youtu.be/dLIabZc0O4c?si=dse9F-Ps4_lIoPCV,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN347
+1/6/2026,2 Chronicles 26; Isaiah 1; Proverbs 17,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw70,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN348
+1/7/2026,Isaiah 2-3; Proverbs 18,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw70,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN349
+1/8/2026,Isaiah 4-6; Proverbs 19,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw71,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN350
+1/9/2026,Isaiah 7-8; Amos 1; Proverbs 20,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw72,https://youtu.be/mGgWaPGpGz4?si=Ij17qcYMaOZMws0j,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN351
+1/10/2026,,,,,
+1/11/2026,,,,,
+1/12/2026,Amos 2-4; Proverbs 21,https://youtu.be/mGgWaPGpGz4?si=Ij17qcYMaOZMws0j,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN354
+1/13/2026,Amos 5-8; Proverbs 22,https://youtu.be/mGgWaPGpGz4?si=Ij17qcYMaOZMws0j,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN355
+1/14/2026,Amos 9; 2 Chronicles 27; Isaiah 9; Proverbs 23,https://youtu.be/mGgWaPGpGz4?si=Ij17qcYMaOZMws0j,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw70,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN356
+1/15/2026,Isaiah 10-11; Proverbs 24,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw70,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN357
+1/16/2026,Isaiah 12; Micah 1-3; Proverbs 25,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw71,https://youtu.be/MFEUEcylwLc?si=5ndWIN0gc0IPfRVl,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN358
+1/17/2026,,,,,
+1/18/2026,,,,,
+1/19/2026,Micah 4-7; Proverbs 26,https://youtu.be/MFEUEcylwLc?si=5ndWIN0gc0IPfRVl,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN361
+1/20/2026,2 Chronicles 28; 2 Kings 16; Proverbs 27,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN362
+1/21/2026,2 Kings 17; Proverbs 28,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN363
+1/22/2026,Isaiah 13-14; Proverbs 29,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw70,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN364
+1/23/2026,Isaiah 15-18; Proverbs 30,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw71,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN365
+1/24/2026,,,,,
+1/25/2026,,,,,
+1/26/2026,Isaiah 19-22; Proverbs 31,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw70,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN368
+1/27/2026,Isaiah 23-25; Proverbs 1,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw71,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN369
+1/28/2026,Isaiah 26-27; Proverbs 2,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw72,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN370
+1/29/2026,2 Kings 18; 2 Chronicles 29; Proverbs 3,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN371
+1/30/2026,2 Chronicles 30; Proverbs 4,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN372
+1/31/2026,,,,,
+2/1/2026,,,,,
+2/2/2026,2 Chronicles 31; Psalms 48; Hosea 1-2; Proverbs 5,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/kE6SZ1ogOVU?si=LPvPlPyJTNpUG3Gh,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN375
+2/3/2026,Hosea 3-6; Proverbs 6,https://youtu.be/kE6SZ1ogOVU?si=LPvPlPyJTNpUG3Gh,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN376
+2/4/2026,Hosea 7-10; Proverbs 7,https://youtu.be/kE6SZ1ogOVU?si=LPvPlPyJTNpUG3Gh,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN377
+2/5/2026,Hosea 11-14; Proverbs 8,https://youtu.be/kE6SZ1ogOVU?si=LPvPlPyJTNpUG3Gh,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN378
+2/6/2026,Isaiah 28-29; Proverbs 9,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw70,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN379
+2/7/2026,,,,,
+2/8/2026,,,,,
+2/9/2026,Isaiah 30-32; Proverbs 10,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw70,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN382
+2/10/2026,Isaiah 33-35; Proverbs 11,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw71,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN383
+2/11/2026,Isaiah 36-37; Proverbs 12,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw72,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN384
+2/12/2026,Isaiah 38-39; Psalms 76; Proverbs 13,https://youtu.be/d0A6Uchb1F8?si=MMefABFMsyF4sw73,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN385
+2/13/2026,Isaiah 40-41; Proverbs 14,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN386
+2/14/2026,,,,,
+2/15/2026,,,,,
+2/16/2026,Isaiah 42-43; Proverbs 15,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN389
+2/17/2026,Isaiah 44-45; Proverbs 16,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN390
+2/18/2026,Isaiah 46-48; Proverbs 17,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN391
+2/19/2026,"2 Kings 19; Psalms 46, 80; Proverbs 18",https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN392
+2/20/2026,Psalms 135; Isaiah 49-50; Proverbs 19,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN393
+2/21/2026,,,,,
+2/22/2026,,,,,
+2/23/2026,Isaiah 51-52; Proverbs 20,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN396
+2/24/2026,Isaiah 53-56; Proverbs 21,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN397
+2/25/2026,Isaiah 57-59; Proverbs 22,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN398
+2/26/2026,Isaiah 60-62; Proverbs 23,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN399
+2/27/2026,Isaiah 63-65; Proverbs 24,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN400
+2/28/2026,,,,,
+3/1/2026,,,,,
+3/2/2026,Isaiah 66; 2 Kings 20; Proverbs 25,https://youtu.be/_TzdEPuqgQg?si=IQtkxv7aqkeBgX_l,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN403
+3/3/2026,2 Kings 21; 2 Chronicles 32; Proverbs 26,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN404
+3/4/2026,2 Chronicles 33; Nahum 1; Proverbs 27,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/Y30DanA5EhU?si=fxarbNAnrm0fulog,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN405
+3/5/2026,Nahum 2-3; 2 Kings 22; Proverbs 28,https://youtu.be/Y30DanA5EhU?si=fxarbNAnrm0fulog,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN406
+3/6/2026,2 Kings 23; Proverbs 29,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN407
+3/7/2026,,,,,
+3/8/2026,,,,,
+3/9/2026,2 Chronicles 34; Proverbs 30,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN410
+3/10/2026,2 Chronicles 35; Zephania 1; Proverbs 31,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/oFZknKPNvz8?si=h7sVa6_DHBUEdkry,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN411
+3/11/2026,Zephania 2-3; Jeremiah 1; Proverbs 1,https://youtu.be/oFZknKPNvz8?si=h7sVa6_DHBUEdkry,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN412
+3/12/2026,Jeremiah 2-3; Proverbs 2,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN413
+3/13/2026,Jeremiah 4; Proverbs 3,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN414
+3/14/2026,,,,,
+3/15/2026,,,,,
+3/16/2026,Jeremiah 5-6; Proverbs 4,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN417
+3/17/2026,Jeremiah 7-8; Proverbs 5,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN418
+3/18/2026,Jeremiah 9-10; Proverbs 6,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN419
+3/19/2026,Jeremiah 11-12; Proverbs 7,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN420
+3/20/2026,Jeremiah 13-14; Proverbs 8,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN421
+3/21/2026,,,,,
+3/22/2026,,,,,
+3/23/2026,Jeremiah 15-16; Proverbs 9,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN424
+3/24/2026,Jeremiah 17-19; Proverbs 10,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN425
+3/25/2026,Jeremiah 20-21; Proverbs 11,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN426
+3/26/2026,Jeremiah 22-23; Proverbs 12,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN427
+3/27/2026,Jeremiah 24-25; Proverbs 13,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN428
+3/28/2026,,,,,
+3/29/2026,,,,,
+3/30/2026,Jeremiah 26-27; Proverbs 14,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN431
+3/31/2026,Jeremiah 28-29; Proverbs 15,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN432
+4/1/2026,Jeremiah 30; Proverbs 16,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN433
+4/2/2026,Jeremiah 31; Proverbs 17,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN434
+4/3/2026,Jeremiah 32-33; Proverbs 18,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN435
+4/4/2026,,,,,
+4/5/2026,,,,,
+4/6/2026,Jeremiah 34-35; Proverbs 19,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN438
+4/7/2026,Jeremiah 36; Proverbs 20,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN439
+4/8/2026,Jeremiah 37-38; Proverbs 21,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN440
+4/9/2026,Jeremiah 39-40; Psalms 74; Proverbs 22,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN441
+4/10/2026,Psalms 79; 2 Kings 24-25; Proverbs 23,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/bVFW3wbi9pk?si=7Fg0C7mQFc4FACwt,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN442
+4/11/2026,,,,,
+4/12/2026,,,,,
+4/13/2026,2 Chronicles 36; Habakuk 1; Proverbs 24,https://youtu.be/HR7xaHv3Ias?si=4b6D45YIWLZUkgrV,https://youtu.be/OPMaRqGJPUU?si=XsdH7B7kcQ3lt3UA,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN445
+4/14/2026,Habakuk 2-3; Jeremiah 41; Proverbs 25,https://youtu.be/OPMaRqGJPUU?si=XsdH7B7kcQ3lt3UA,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN446
+4/15/2026,Jeremiah 42-43; Proverbs 26,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN447
+4/16/2026,Jeremiah 44-45; Proverbs 27,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN448
+4/17/2026,Jeremiah 46-48; Proverbs 28,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN449
+4/18/2026,,,,,
+4/19/2026,,,,,
+4/20/2026,Jeremiah 49; Proverbs 29,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN452
+4/21/2026,Jeremiah 50; Proverbs 30,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN453
+4/22/2026,Jeremiah 51; Proverbs 31,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN454
+4/23/2026,Jeremiah 52; Proverbs 1,https://youtu.be/RSK36cHbrk0?si=bnI_UtTtDeTkXPVr,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN455
+4/24/2026,Lamentations 1-2; Proverbs 2,https://youtu.be/p8GDFPdaQZQ?si=IN1Rdv8eY2Onhk-u,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN456
+4/25/2026,,,,,
+4/26/2026,,,,,
+4/27/2026,Lamentations 3; Proverbs 3,https://youtu.be/p8GDFPdaQZQ?si=IN1Rdv8eY2Onhk-u,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN459
+4/28/2026,Lamentations 4-5; Ezekiel 1; Proverbs 4,https://youtu.be/p8GDFPdaQZQ?si=IN1Rdv8eY2Onhk-u,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN460
+4/29/2026,Ezekiel 2-4; Proverbs 5,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN461
+4/30/2026,Ezekiel 5-6; Proverbs 6,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN462
+5/1/2026,Ezekiel 7-9; Proverbs 7,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN463
+5/2/2026,,,,,
+5/3/2026,,,,,
+5/4/2026,Ezekiel 10-11; Proverbs 8,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN466
+5/5/2026,Ezekiel 12-13; Proverbs 9,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN467
+5/6/2026,Ezekiel 14-15; Proverbs 10,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN468
+5/7/2026,Ezekiel 16; Proverbs 11,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN469
+5/8/2026,Ezekiel 17-18; Proverbs 12,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN470
+5/9/2026,,,,,
+5/10/2026,,,,,
+5/11/2026,Ezekiel 19-20; Proverbs 13,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN473
+5/12/2026,Ezekiel 21; Proverbs 14,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN474
+5/13/2026,Ezekiel 22-23; Proverbs 15,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN475
+5/14/2026,Ezekiel 24; Proverbs 16,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN476
+5/15/2026,Ezekiel 25-26; Proverbs 17,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN477
+5/16/2026,,,,,
+5/17/2026,,,,,
+5/18/2026,Ezekiel 27-28; Proverbs 18,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN480
+5/19/2026,Ezekiel 29-30; Proverbs 19,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN481
+5/20/2026,Ezekiel 31-32; Proverbs 20,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN482
+5/21/2026,Ezekiel 33; Proverbs 21,https://youtu.be/R-CIPu1nko8?si=-M9I4MI2f_amVl3Z,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN483
+5/22/2026,Ezekiel 34-35; Proverbs 22,https://youtu.be/SDeCWW_Bnyw?si=n-4SRlntaO6_XBwi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN484
+5/23/2026,,,,,
+5/24/2026,,,,,
+5/25/2026,Ezekiel 36-37; Proverbs 23,https://youtu.be/SDeCWW_Bnyw?si=n-4SRlntaO6_XBwi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN487
+5/26/2026,Ezekiel 38-39; Proverbs 24,https://youtu.be/SDeCWW_Bnyw?si=n-4SRlntaO6_XBwi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN488
+5/27/2026,Ezekiel 40; Proverbs 25,https://youtu.be/SDeCWW_Bnyw?si=n-4SRlntaO6_XBwi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN489
+5/28/2026,Ezekiel 41-42; Proverbs 26,https://youtu.be/SDeCWW_Bnyw?si=n-4SRlntaO6_XBwi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN490
+5/29/2026,Ezekiel 43; Proverbs 27,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN491
+5/30/2026,,,,,
+5/31/2026,,,,,
+6/1/2026,Ezekiel 44-45; Proverbs 28,https://youtu.be/SDeCWW_Bnyw?si=n-4SRlntaO6_XBwi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN494
+6/2/2026,Ezekiel 46-47; Proverbs 29,https://youtu.be/SDeCWW_Bnyw?si=n-4SRlntaO6_XBwi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN495
+6/3/2026,Ezekiel 48; Proverbs 30,https://youtu.be/SDeCWW_Bnyw?si=n-4SRlntaO6_XBwi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN496
+6/4/2026,Joel 1-3; Proverbs 31,https://youtu.be/zQLazbgz90c?si=6qQ44GGpFVLfrPee,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN497
+6/5/2026,Daniel 1; Proverbs 1,https://youtu.be/9cSC9uobtPM?si=QeRjTJN1kiuaBVAg,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN498
+6/6/2026,,,,,
+6/7/2026,,,,,
+6/8/2026,Daniel 2-3; Proverbs 2,https://youtu.be/9cSC9uobtPM?si=QeRjTJN1kiuaBVAg,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN501
+6/9/2026,Daniel 4; Proverbs 3,https://youtu.be/9cSC9uobtPM?si=QeRjTJN1kiuaBVAg,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN502
+6/10/2026,Daniel 5; Proverbs 4,https://youtu.be/9cSC9uobtPM?si=QeRjTJN1kiuaBVAg,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN503
+6/11/2026,Daniel 6-7; Proverbs 5,https://youtu.be/9cSC9uobtPM?si=QeRjTJN1kiuaBVAg,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN504
+6/12/2026,Daniel 8-9; Proverbs 6,https://youtu.be/9cSC9uobtPM?si=QeRjTJN1kiuaBVAg,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN505
+6/13/2026,,,,,
+6/14/2026,,,,,
+6/15/2026,Daniel 10; Proverbs 7,https://youtu.be/9cSC9uobtPM?si=QeRjTJN1kiuaBVAg,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN508
+6/16/2026,Daniel 11-12; Proverbs 8,https://youtu.be/9cSC9uobtPM?si=QeRjTJN1kiuaBVAg,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN509
+6/17/2026,Ezra 1-2; Proverbs 9,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ8,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN510
+6/18/2026,Ezra 3-5; Proverbs 10,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ9,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN511
+6/19/2026,Ezra 6; Psalms 137; Haggai 1; Proverbs 11,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ10,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/juPvv_xcX-U?si=rtKd4fDFd0l-fSo_,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN512
+6/20/2026,,,,,
+6/21/2026,,,,,
+6/22/2026,Haggai 2; Zechariah 1-2; Proverbs 12,https://youtu.be/juPvv_xcX-U?si=rtKd4fDFd0l-fSo_,https://youtu.be/_106IfO6Kc0?si=wBtiw09U_r0JfQFA,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN515
+6/23/2026,Zechariah 3-6; Proverbs 13,https://youtu.be/_106IfO6Kc0?si=wBtiw09U_r0JfQFA,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN516
+6/24/2026,Zechariah 7-9; Proverbs 14,https://youtu.be/_106IfO6Kc0?si=wBtiw09U_r0JfQFA,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN517
+6/25/2026,Zechariah 10-12; Proverbs 15,https://youtu.be/_106IfO6Kc0?si=wBtiw09U_r0JfQFA,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN518
+6/26/2026,Zechariah 13-14; Esther 1; Proverbs 16,https://youtu.be/_106IfO6Kc0?si=wBtiw09U_r0JfQFA,https://youtu.be/JydNSlufRIs?si=5uH3I1EH2Iwpuu1M,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN519
+6/27/2026,,,,,
+6/28/2026,,,,,
+6/29/2026,Esther 2-3; Proverbs 17,https://youtu.be/JydNSlufRIs?si=5uH3I1EH2Iwpuu1M,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN522
+6/30/2026,Esther 4-6; Proverbs 18,https://youtu.be/JydNSlufRIs?si=5uH3I1EH2Iwpuu1M,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN523
+7/1/2026,Esther 7-9; Proverbs 19,https://youtu.be/JydNSlufRIs?si=5uH3I1EH2Iwpuu1M,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN524
+7/2/2026,Esther 10; Ezra 7; Proverbs 20,https://youtu.be/JydNSlufRIs?si=5uH3I1EH2Iwpuu1M,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ9,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN525
+7/3/2026,Ezra 8-9; Proverbs 21,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ9,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN526
+7/4/2026,,,,,
+7/5/2026,,,,,
+7/6/2026,Ezra 10; Nehemiah 1; Proverbs 22,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ9,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ8,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN529
+7/7/2026,Nehemiah 2-3; Proverbs 23,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ8,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN530
+7/8/2026,Nehemiah 4-5; Proverbs 24,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ9,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN531
+7/9/2026,Nehemiah 6-7; Proverbs 25,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ10,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN532
+7/10/2026,Nehemiah 8-9; Proverbs 26,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ11,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN533
+7/11/2026,,,,,
+7/12/2026,,,,,
+7/13/2026,Nehemiah 10; Proverbs 27,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ8,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN536
+7/14/2026,Nehemiah 11-12; Proverbs 28,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ9,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN537
+7/15/2026,Nehemiah 13; Psalms 126; Malachi 1; Proverbs 29,https://youtu.be/MkETkRv9tG8?si=MEVZRM5z95GdeSQ10,https://youtu.be/j9phNEaPrv8?si=TzTQeZ600C---sqI,https://youtu.be/HPGShWZ4Jvk?si=y1ddEXWXlZPcdGx2,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN538
+7/16/2026,Malachi 2-4; Proverbs 30,https://youtu.be/HPGShWZ4Jvk?si=y1ddEXWXlZPcdGx2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN539
+7/17/2026,Luke 1; Proverbs 19,https://youtu.be/XIb_dCIxzr0?si=7jWgBTJv31Xa4016,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN540
+7/18/2026,,,,,
+7/19/2026,,,,,
+7/20/2026,John 1; Matthew 1; Proverbs 31,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN543
+7/21/2026,Luke 2; Matthew 2; Proverbs 1,https://youtu.be/XIb_dCIxzr0?si=7jWgBTJv31Xa4016,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN544
+7/22/2026,Matthew 3; Mark 1; Proverbs 2,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN545
+7/23/2026,Luke 3; Matthew 4; Proverbs 3,https://youtu.be/XIb_dCIxzr0?si=7jWgBTJv31Xa4016,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN546
+7/24/2026,Luke 4-5; Proverbs 4,https://youtu.be/XIb_dCIxzr0?si=7jWgBTJv31Xa4016,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN547
+7/25/2026,,,,,
+7/26/2026,,,,,
+7/27/2026,John 2-3; Proverbs 5,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN550
+7/28/2026,John 4; Matthew 8; Proverbs 6,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN551
+7/29/2026,Mark 2; John 5; Proverbs 7,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN552
+7/30/2026,Matthew 12; Proverbs 8,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN553
+7/31/2026,Mark 3; Luke 6; Proverbs 9,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,https://youtu.be/XIb_dCIxzr0?si=7jWgBTJv31Xa4016,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN554
+8/1/2026,,,,,
+8/2/2026,,,,,
+8/3/2026,Matthew 5; Proverbs 10,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN557
+8/4/2026,Matthew 6-7; Proverbs 11,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN558
+8/5/2026,Matthew 9; Luke 7; Proverbs 12,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,https://youtu.be/XIb_dCIxzr0?si=7jWgBTJv31Xa4016,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN559
+8/6/2026,Matthew 11; Proverbs 13,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN560
+8/7/2026,Luke 11; Proverbs 14,https://youtu.be/XIb_dCIxzr0?si=7jWgBTJv31Xa4016,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN561
+8/8/2026,,,,,
+8/9/2026,,,,,
+8/10/2026,Matthew 13; Luke 8; Proverbs 15,https://youtu.be/3Dv4-n6OYGI?si=yNnVIYTUdelotCFB,https://youtu.be/XIb_dCIxzr0?si=7jWgBTJv31Xa4016,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN564
+8/11/2026,Mark 4; Proverbs 16,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN565
+8/12/2026,Mark 5; Matthew 10; Proverbs 17,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN566
+8/13/2026,Matthew 14; Proverbs 18,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN567
+8/14/2026,Mark 6; Proverbs 19,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN568
+8/15/2026,,,,,
+8/16/2026,,,,,
+8/17/2026,Luke 9; Proverbs 20,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN571
+8/18/2026,John 6; Matthew 15; Proverbs 21,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN572
+8/19/2026,Mark 7; Matthew 16; Proverbs 22,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN573
+8/20/2026,Mark 8; Matthew 17; Proverbs 23,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN574
+8/21/2026,Mark 9; Proverbs 24,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN575
+8/22/2026,,,,,
+8/23/2026,,,,,
+8/24/2026,Matthew 18; John 7; Proverbs 25,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN578
+8/25/2026,John 8; Proverbs 26,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN579
+8/26/2026,John 9-10; Proverbs 27,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN580
+8/27/2026,Luke 10; Proverbs 28,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN581
+8/28/2026,Luke 12-13; Proverbs 29,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN582
+8/29/2026,,,,,
+8/30/2026,,,,,
+8/31/2026,Luke 14-15; Proverbs 30,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN585
+9/1/2026,Luke 16-17; Proverbs 31,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN586
+9/2/2026,John 11; Proverbs 1,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN587
+9/3/2026,Luke 18; Matthew 19; Proverbs 2,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN588
+9/4/2026,Mark 10; Proverbs 3,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN589
+9/5/2026,,,,,
+9/6/2026,,,,,
+9/7/2026,Matthew 20-21; Proverbs 4,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN592
+9/8/2026,Luke 19; Mark 11; Proverbs 5,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN593
+9/9/2026,John 12; Proverbs 6,https://youtu.be/G-2e9mMf7E8?si=B7YvtKABKuRK2AqM,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN594
+9/10/2026,Matthew 22; Mark 12; Proverbs 7,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN595
+9/11/2026,Matthew 23; Proverbs 8,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN596
+9/12/2026,,,,,
+9/13/2026,,,,,
+9/14/2026,Luke 20-21; Proverbs 9,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN599
+9/15/2026,Mark 13; Matthew 24; Proverbs 10,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN600
+9/16/2026,Matthew 25; Proverbs 11,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN601
+9/17/2026,Matthew 26; Proverbs 12,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN602
+9/18/2026,Mark 14; Proverbs 13,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN603
+9/19/2026,,,,,
+9/20/2026,,,,,
+9/21/2026,Luke 22; Proverbs 14,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN606
+9/22/2026,John 13-14; Proverbs 15,https://youtu.be/RUfh_wOsauk?si=vF0-Ok703iLylBuf,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN607
+9/23/2026,John 15-16; Proverbs 16,https://youtu.be/RUfh_wOsauk?si=vF0-Ok703iLylBuf,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN608
+9/24/2026,John 17; Matthew 27; Proverbs 17,https://youtu.be/RUfh_wOsauk?si=vF0-Ok703iLylBuf,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN609
+9/25/2026,Mark 15; Proverbs 18,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN610
+9/26/2026,,,,,
+9/27/2026,,,,,
+9/28/2026,Luke 23; John 18; Proverbs 19,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,https://youtu.be/RUfh_wOsauk?si=vF0-Ok703iLylBuf,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN613
+9/29/2026,John 19; Matthew 28; Proverbs 20,https://youtu.be/RUfh_wOsauk?si=vF0-Ok703iLylBuf,https://youtu.be/GGCF3OPWN14?si=Q9Z8STzuQZSMWePx,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN614
+9/30/2026,Mark 16; Luke 24; Proverbs 21,https://youtu.be/HGHqu9-DtXk?si=f1z9_LvtX8Ui3Dns,https://youtu.be/26z_KhwNdD8?si=MZdu9F7dg3hebFaW,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN615
+10/1/2026,John 20-21; Proverbs 22,https://youtu.be/RUfh_wOsauk?si=vF0-Ok703iLylBuf,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN616
+10/2/2026,Acts 1-2; Proverbs 23,https://youtu.be/CGbNw855ksw?si=DFmFMY7TmGw9L51O,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN617
+10/3/2026,,,,,
+10/4/2026,,,,,
+10/5/2026,Acts 3-4; Proverbs 24,https://youtu.be/CGbNw855ksw?si=DFmFMY7TmGw9L51O,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN620
+10/6/2026,Acts 5-6; Proverbs 25,https://youtu.be/CGbNw855ksw?si=DFmFMY7TmGw9L51O,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN621
+10/7/2026,Acts 7; Proverbs 26,https://youtu.be/CGbNw855ksw?si=DFmFMY7TmGw9L51O,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN622
+10/8/2026,Acts 8-9; Proverbs 27,https://youtu.be/CGbNw855ksw?si=DFmFMY7TmGw9L51O,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN623
+10/9/2026,Acts 10; Proverbs 28,https://youtu.be/CGbNw855ksw?si=DFmFMY7TmGw9L51O,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN624
+10/10/2026,,,,,
+10/11/2026,,,,,
+10/12/2026,Acts 11-12; Proverbs 29,https://youtu.be/CGbNw855ksw?si=DFmFMY7TmGw9L51O,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN627
+10/13/2026,Acts 13-14; Proverbs 30,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN628
+10/14/2026,James 1-3; Proverbs 31,https://youtu.be/qn-hLHWwRYY?si=osnxURzXwwSpsjMS,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN629
+10/15/2026,James 4-5; Acts 15; Proverbs 1,https://youtu.be/qn-hLHWwRYY?si=osnxURzXwwSpsjMS,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN630
+10/16/2026,Acts 16; Galatians 1; Proverbs 2,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,https://youtu.be/vmx4UjRFp0M?si=4HexOSJnK1FxBNZp,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN631
+10/17/2026,,,,,
+10/18/2026,,,,,
+10/19/2026,Galatians 2-3; Proverbs 3,https://youtu.be/vmx4UjRFp0M?si=4HexOSJnK1FxBNZp,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN634
+10/20/2026,Galatians 4-6; Proverbs 4,https://youtu.be/vmx4UjRFp0M?si=4HexOSJnK1FxBNZp,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN635
+10/21/2026,Acts 17; 1 Thessalonians 1-2; Proverbs 5,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,https://youtu.be/No7Nq6IX23c?si=xPA3Qdcryb7lL44p,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN636
+10/22/2026,1 Thessalonians 3-5; 2 Thessalonians 1; Proverbs 6,https://youtu.be/No7Nq6IX23c?si=xPA3Qdcryb7lL44p,https://youtu.be/kbPBDKOn1cc?si=mshsdUXZYeEXqjol,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN637
+10/23/2026,2 Thessalonians 2-3; Acts 18; Proverbs 7,https://youtu.be/kbPBDKOn1cc?si=mshsdUXZYeEXqjol,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN638
+10/24/2026,,,,,
+10/25/2026,,,,,
+10/26/2026,Acts 19; 1 Corininthians 1; Proverbs 8,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,https://youtu.be/yiHf8klCCc4?si=DTk8-Bo3-VdlKasw,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN641
+10/27/2026,1 Corininthians 2-4; Proverbs 9,https://youtu.be/yiHf8klCCc4?si=DTk8-Bo3-VdlKasw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN642
+10/28/2026,1 Corininthians 5-7; Proverbs 10,https://youtu.be/yiHf8klCCc4?si=DTk8-Bo3-VdlKasw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN643
+10/29/2026,1 Corininthians 8-9; Proverbs 11,https://youtu.be/yiHf8klCCc4?si=DTk8-Bo3-VdlKasw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN644
+10/30/2026,1 Corininthians 10-12; Proverbs 12,https://youtu.be/yiHf8klCCc4?si=DTk8-Bo3-VdlKasw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN645
+10/31/2026,,,,,
+11/1/2026,,,,,
+11/2/2026,1 Corininthians 13-14; Proverbs 13,https://youtu.be/yiHf8klCCc4?si=DTk8-Bo3-VdlKasw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN648
+11/3/2026,1 Corininthians 15-16; Proverbs 14,https://youtu.be/yiHf8klCCc4?si=DTk8-Bo3-VdlKasw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN649
+11/4/2026,2 Corinthians 1-3; Proverbs 15,https://youtu.be/3lfPK2vfC54?si=RG1tm7XaXYP3plx6,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN650
+11/5/2026,2 Corinthians 4-7; Proverbs 16,https://youtu.be/3lfPK2vfC54?si=RG1tm7XaXYP3plx7,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN651
+11/6/2026,2 Corinthians 8-10; Proverbs 17,https://youtu.be/3lfPK2vfC54?si=RG1tm7XaXYP3plx8,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN652
+11/7/2026,,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN653
+11/8/2026,,,,,
+11/9/2026,2 Corinthians 11-12; Proverbs 18,https://youtu.be/3lfPK2vfC54?si=RG1tm7XaXYP3plx6,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN655
+11/10/2026,2 Corinthians 13; Romans 1-2; Proverbs 19,https://youtu.be/3lfPK2vfC54?si=RG1tm7XaXYP3plx7,https://youtu.be/ej_6dVdJSIU?si=FK2vFHULzAfTn_N2,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN656
+11/11/2026,Romans 3-4; Proverbs 20,https://youtu.be/ej_6dVdJSIU?si=FK2vFHULzAfTn_N2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN657
+11/12/2026,Romans 5-7; Proverbs 21,https://youtu.be/0SVTl4Xa5fY?si=8O_ajlnmTgDzg1-N,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN658
+11/13/2026,Romans 8-9; Proverbs 22,https://youtu.be/0SVTl4Xa5fY?si=8O_ajlnmTgDzg1-N,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN659
+11/14/2026,,,,,
+11/15/2026,,,,,
+11/16/2026,Romans 10-11; Proverbs 23,https://youtu.be/0SVTl4Xa5fY?si=8O_ajlnmTgDzg1-N,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN662
+11/17/2026,Romans 12-14; Proverbs 24,https://youtu.be/0SVTl4Xa5fY?si=8O_ajlnmTgDzg1-N,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN663
+11/18/2026,Romans 15-16; Acts 20; Proverbs 25,https://youtu.be/0SVTl4Xa5fY?si=8O_ajlnmTgDzg1-N,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN664
+11/19/2026,Acts 21; Proverbs 26,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN665
+11/20/2026,Acts 22-23; Proverbs 27,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN666
+11/21/2026,,,,,
+11/22/2026,,,,,
+11/23/2026,Acts 24-25; Proverbs 28,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN669
+11/24/2026,Acts 26-27; Proverbs 29,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN670
+11/25/2026,Acts 28; Colossians 1; Proverbs 30,https://youtu.be/Z-17KxpjL0Q?si=PVVp2fFDnriVinLE,https://youtu.be/pXTXlDxQsvc?si=4ORbTKlge7sAowxT,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN671
+11/26/2026,Colossians 2-4; Proverbs 31,https://youtu.be/pXTXlDxQsvc?si=4ORbTKlge7sAowxT,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN672
+11/27/2026,Philemon; Ephesians 1-2; Proverbs 1,https://youtu.be/aW9Q3Jt6Yvk?si=RFYdhnSyvV3LUbpC,https://youtu.be/Y71r-T98E2Q?si=x6TOJs5gEJt7kThi,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN673
+11/28/2026,,,,,
+11/29/2026,,,,,
+11/30/2026,Ephesians 3-5; Proverbs 2,https://youtu.be/Y71r-T98E2Q?si=x6TOJs5gEJt7kThi,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN676
+12/1/2026,Ephesians 6; Philippians1; Proverbs 3,https://youtu.be/Y71r-T98E2Q?si=x6TOJs5gEJt7kThi,https://youtu.be/oE9qqW1-BkU?si=SUU9qTY25iyLvj5a,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN677
+12/2/2026,Philippians2-4; Proverbs 4,https://youtu.be/oE9qqW1-BkU?si=SUU9qTY25iyLvj5a,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN678
+12/3/2026,1 Timothy 1-4; Proverbs 5,https://youtu.be/7RoqnGcEjcs?si=6L9j9Pd-JFB9C8wa,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN679
+12/4/2026,1 Timothy 5-6; Titus 1-2; Proverbs 6,https://youtu.be/7RoqnGcEjcs?si=6L9j9Pd-JFB9C8wa,https://youtu.be/PUEYCVXJM3k?si=Z9bH4qoT3SyjJ7A6,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN680
+12/5/2026,,,,,
+12/6/2026,,,,,
+12/7/2026,Titus 3; 1 Peter 1-2; Proverbs 7,https://youtu.be/PUEYCVXJM3k?si=Z9bH4qoT3SyjJ7A6,https://youtu.be/WhP7AZQlzCg?si=Bh40_TxEGWW8vFQ7,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN683
+12/8/2026,1 Peter 3-5; Hebrews 1; Proverbs 8,https://youtu.be/WhP7AZQlzCg?si=Bh40_TxEGWW8vFQ7,https://youtu.be/1fNWTZZwgbs?si=Ec9dFTGOSmZWqCr6,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN684
+12/9/2026,Hebrews 2-5; Proverbs 9,https://youtu.be/1fNWTZZwgbs?si=Ec9dFTGOSmZWqCr6,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN685
+12/10/2026,Hebrews 6-8; Proverbs 10,https://youtu.be/1fNWTZZwgbs?si=Ec9dFTGOSmZWqCr7,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN686
+12/11/2026,Hebrews 9-10; Proverbs 11,https://youtu.be/1fNWTZZwgbs?si=Ec9dFTGOSmZWqCr8,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN687
+12/12/2026,,,,,
+12/13/2026,,,,,
+12/14/2026,Hebrews 11-12; Proverbs 12,https://youtu.be/1fNWTZZwgbs?si=Ec9dFTGOSmZWqCr6,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN690
+12/15/2026,Hebrews 13; 2 Timothy 1-2; Proverbs 13,https://youtu.be/1fNWTZZwgbs?si=Ec9dFTGOSmZWqCr7,https://youtu.be/urlvnxCaL00?si=Fxny0t7ohp9TA549,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN691
+12/16/2026,2 Timothy 3-4; 2 Peter 1; Proverbs 14,https://youtu.be/urlvnxCaL00?si=Fxny0t7ohp9TA549,https://youtu.be/wWLv_ITyKYc?si=-_ZU_1fS_nOHIbs6,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN692
+12/17/2026,2 Peter 2-3; Jude; Proverbs 15,https://youtu.be/wWLv_ITyKYc?si=-_ZU_1fS_nOHIbs6,https://youtu.be/6UoCmakZmys?si=ifLfw2BDzXnngge5,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN693
+12/18/2026,1 John 1-3; Proverbs 16,https://youtu.be/l3QkE6nKylM?si=Kf7s7YvMl4qpRB2a,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN694
+12/19/2026,,,,,
+12/20/2026,,,,,
+12/21/2026,1 John 4-5; 2 John; Proverbs 17,https://youtu.be/l3QkE6nKylM?si=Kf7s7YvMl4qpRB2a,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN697
+12/22/2026,3 John; Revelation 1-2; Proverbs 18,https://youtu.be/l3QkE6nKylM?si=Kf7s7YvMl4qpRB2a,https://youtu.be/5nvVVcYD-0w?si=B1WXy3jK3xNF_yNw,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN698
+12/23/2026,Revelation 3-5; Proverbs 19,https://youtu.be/5nvVVcYD-0w?si=B1WXy3jK3xNF_yNw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN699
+12/24/2026,Revelation 6-8; Proverbs 20,https://youtu.be/5nvVVcYD-0w?si=B1WXy3jK3xNF_yNw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN700
+12/25/2026,Revelation 9-11; Proverbs 21,https://youtu.be/5nvVVcYD-0w?si=B1WXy3jK3xNF_yNw,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN701
+12/26/2026,,,,,
+12/27/2026,,,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN703
+12/28/2026,Revelation 12-14; Proverbs 22,https://youtu.be/QpnIrbq2bKo?si=SSOj3Id4tcRXvlm2,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN704
+12/29/2026,Revelation 15-17; Proverbs 23,https://youtu.be/QpnIrbq2bKo?si=SSOj3Id4tcRXvlm3,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN705
+12/30/2026,Revelation 18-20; Proverbs 24,https://youtu.be/QpnIrbq2bKo?si=SSOj3Id4tcRXvlm4,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN706
+12/31/2026,Revelation 21-22; Proverbs 25,https://youtu.be/QpnIrbq2bKo?si=SSOj3Id4tcRXvlm5,,,https://youtu.be/AzmYV8GNAIM?si=iRIndNPtDLDdIN707

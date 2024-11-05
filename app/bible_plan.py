@@ -10,7 +10,11 @@ class BiblePlan():
             reading_plan = csv.DictReader(reading_plan_csv)
             
             for row in reading_plan:
-                self.reading_plan[row['Date']] = row['Passage']
+                self.reading_plan[row['DATE']] = {'passage': row['PASSAGE 1'], 
+                                                  'video1': row['VIDEO 1'], 
+                                                  'video2': row['VIDEO 2'], 
+                                                  'video3': row['VIDEO 3'], 
+                                                  'video4': row['VIDEO 4 (PROVERB)']}
 
     def get_reading_plan(self) -> dict:
         return self.reading_plan

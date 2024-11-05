@@ -2,6 +2,7 @@ import * as React from 'react';
 import Paper from '@mui/material/Paper';
 import { styled } from '@mui/material/styles';
 
+
 const Item = styled(Paper)(({ theme }) => ({
     backgroundColor: '#fff',
     ...theme.typography.body2,
@@ -13,12 +14,12 @@ const Item = styled(Paper)(({ theme }) => ({
     }),
   }));
 
-export default function Reading({reading}) {
+export default function Reading({reading, bibleLink}) {
     return (
         <Item>
-            <h3>
-                {reading}
-            </h3>
+            <a href={bibleLink} target="_blank" rel='noreferrer'>
+                <h3>{reading}</h3>
+            </a>
         </Item>
     );
 }
