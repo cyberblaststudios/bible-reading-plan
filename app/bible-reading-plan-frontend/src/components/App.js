@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import BottomBar from './BottomBar';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
-import { Box, CssBaseline, Stack, Typography } from '@mui/material';
+import { Box, CssBaseline, Skeleton, Stack, Typography } from '@mui/material';
 import dayjs from 'dayjs';
 import Reading from './Reading';
 import Video from './Video';
@@ -97,15 +97,20 @@ export default function App(){
     // holds the curent youtube video embed ids of the current reading plan day
     const [videos, setVideos] = useState([])
 
+    // holds the state when we are loading in content
+    const [isLoading, setIsLoading] = useState(false)
+
     const initializeDay = (date, currentReadingPlan) => {
         const parsedReadings = getReadingLinks(currentReadingPlan, date)
         const videoEmbedIds = getVideoEmbedIds(currentReadingPlan, date)
         
         setReadings(parsedReadings)
         setVideos(videoEmbedIds)
+        setIsLoading(false)
     }
 
     const onDateChanged = (value) => {
+        setIsLoading(true)
         setSelectedDate(value)
         initializeDay(value, readingPlan)
     }
@@ -123,6 +128,8 @@ export default function App(){
         }
 
         if (!readingPlan){
+            setIsLoading(true)
+
             fetchBibleReadingPlan().then((planData) => {
                 setReadingPlan(planData)
 
@@ -137,24 +144,34 @@ export default function App(){
     return (
         <ThemeProvider theme={darkTheme}>
             <CssBaseline/>
-                <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
-                    <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'}>
-                        <Typography>Today's Reading</Typography>
-                        {
-                            readings.length <= 0 && <Typography>Nothing to read today. Go forth and share the Gospel!</Typography>
-                        }
-                        {
-                            readings.map((item, index) => (
-                                <Reading key={index} reading={item.verseSeries} bibleLink={item.bibleLink}/>
-                            ))
-                        }
-                        {
-                            videos.map((item, index) => (
-                                <Video key={index} embedId={"GQI72THyO5I"}/>
-                            ))
-                        }
-                    </Stack>
-                </Box>
+                { (readings.length <= 0 && !isLoading) ? <Typography sx={{left: 0, lineHeight: '10%', marginTop: 'auto', position: 'absolute', textAlign: 'center', top: '50%', width: '100%'}}>
+                    Nothing to read today. Go forth and share the Gospel!
+                    </Typography> :
+                    <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
+                        <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'}>
+                            {
+                                isLoading && <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'}>
+                                    <Skeleton variant='rounded' height={'2cm'}/>
+                                    <Skeleton variant='rounded' height={'2cm'}/>
+                                    <Skeleton variant='rounded' height={'4cm'}/>
+                                    <Skeleton variant='rounded' height={'4cm'}/>
+                                    <Skeleton variant='rounded' height={'4cm'}/>
+                                    <Skeleton variant='rounded' height={'4cm'}/>
+                                </Stack>
+                            }
+                            {
+                                readings.map((item, index) => (
+                                    !isLoading ? <Reading key={index} reading={item.verseSeries} bibleLink={item.bibleLink}/> : null
+                                ))
+                            }
+                            {
+                                videos.map((item, index) => (
+                                    !isLoading ? <Video key={index} embedId={"GQI72THyO5I"}/> : null
+                                ))
+                            }
+                        </Stack>
+                    </Box>
+                }
             <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
         </ThemeProvider>
     );
