@@ -1,9 +1,10 @@
-import React, { useCallback, useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import BottomBar from './BottomBar';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { Box, CssBaseline, Stack, Typography } from '@mui/material';
 import dayjs from 'dayjs';
 import Reading from './Reading';
+import Video from './Video';
 
 const plan_server = origin + '/apiv1/bibleplan';
 
@@ -52,6 +53,37 @@ function getReadingLinks(readingPlan, currentDate) {
     return readingResult
 }
 
+function getVideoEmbedIds(readingPlan, currentDate) {
+    const formattedDate = getFormattedDate(currentDate)
+    
+    let currentDay = {}
+
+    try{
+        currentDay = readingPlan[formattedDate]
+
+        if (currentDay.passage === '') {
+            return []
+        }
+    } catch {
+        return []
+    }
+
+    const videoFullLinks = []
+
+    videoFullLinks.push(currentDay.video1)
+    videoFullLinks.push(currentDay.video2)
+    videoFullLinks.push(currentDay.video3)
+    videoFullLinks.push(currentDay.video4)
+
+    const videoEmbedIds = []
+
+    for (const videoFullLink of videoFullLinks) {
+        videoEmbedIds.push(videoFullLink.match(/youtu\.be\/([^?]*)/g))
+    }
+
+    return videoEmbedIds
+}
+
 export default function App(){
     // initialize the current day
     const [selectedDate, setSelectedDate] = useState(dayjs());
@@ -62,17 +94,20 @@ export default function App(){
     // holds the current readings of the current reading plan day
     const [readings, setReadings] = useState([])
 
-    // holds the curent videos of the current reading plan day
+    // holds the curent youtube video embed ids of the current reading plan day
     const [videos, setVideos] = useState([])
 
-    const initializeDay = () => {
-        const parsedReadings = getReadingLinks(readingPlan, selectedDate)
+    const initializeDay = (date, currentReadingPlan) => {
+        const parsedReadings = getReadingLinks(currentReadingPlan, date)
+        const videoEmbedIds = getVideoEmbedIds(currentReadingPlan, date)
+        
         setReadings(parsedReadings)
+        setVideos(videoEmbedIds)
     }
 
     const onDateChanged = (value) => {
         setSelectedDate(value)
-        initializeDay()
+        initializeDay(value, readingPlan)
     }
 
     useEffect(() => {
@@ -88,25 +123,34 @@ export default function App(){
         }
 
         if (!readingPlan){
-            fetchBibleReadingPlan().then((data) => {
-                setReadingPlan(data)
+            fetchBibleReadingPlan().then((planData) => {
+                setReadingPlan(planData)
 
                 // initialize current day
+                initializeDay(dayjs(), planData)
 
             })
         }
 
-    }, [readingPlan])
+    }, [])
 
     return (
         <ThemeProvider theme={darkTheme}>
             <CssBaseline/>
                 <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
-                    <Stack spacing={1} alignSelf={'center'} width={'90%'} maxWidth={'35cm'}>
+                    <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'}>
                         <Typography>Today's Reading</Typography>
+                        {
+                            readings.length <= 0 && <Typography>Nothing to read today. Go forth and share the Gospel!</Typography>
+                        }
                         {
                             readings.map((item, index) => (
                                 <Reading key={index} reading={item.verseSeries} bibleLink={item.bibleLink}/>
+                            ))
+                        }
+                        {
+                            videos.map((item, index) => (
+                                <Video key={index} embedId={"GQI72THyO5I"}/>
                             ))
                         }
                     </Stack>

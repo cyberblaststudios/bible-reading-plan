@@ -8,26 +8,6 @@ import { MobileDatePicker } from '@mui/x-date-pickers/MobileDatePicker';
 import { DayCalendarSkeleton } from '@mui/x-date-pickers/DayCalendarSkeleton';
 
 
-function getRandomNumber(min, max) {
-  return Math.round(Math.random() * (max - min) + min);
-}
-
-function fakeFetch(date, { signal }) {
-  return new Promise((resolve, reject) => {
-    const timeout = setTimeout(() => {
-      const daysInMonth = date.daysInMonth();
-      const daysToHighlight = [1, 2, 3].map(() => getRandomNumber(1, daysInMonth));
-
-      resolve({ daysToHighlight });
-    }, 500);
-
-    signal.onabort = () => {
-      clearTimeout(timeout);
-      reject(new DOMException('aborted', 'AbortError'));
-    };
-  });
-}
-
 // this will initialize to the current date
 const initialValue = dayjs();
 
@@ -51,25 +31,34 @@ function ServerDay(props) {
 export default function DateSelector({currentDate, readingPlan, onDateChanged}) {
   const requestAbortController = React.useRef(null);
   const [isLoading, setIsLoading] = React.useState(false);
-  const [highlightedDays, setHighlightedDays] = React.useState([1, 2, 15]);
+  const [highlightedDays, setHighlightedDays] = React.useState([]);
 
   const fetchHighlightedDays = (date) => {
-    const controller = new AbortController();
-    fakeFetch(date, {
-      signal: controller.signal,
-    })
-      .then(({ daysToHighlight }) => {
-        setHighlightedDays(daysToHighlight);
-        setIsLoading(false);
-      })
-      .catch((error) => {
-        // ignore the error if it's caused by `controller.abort`
-        if (error.name !== 'AbortError') {
-          throw error;
-        }
-      });
 
-    requestAbortController.current = controller;
+    // handle if the plan is not loaded yet
+    if (readingPlan === null){
+      setHighlightedDays([]);
+      setIsLoading(false);
+      return
+    }
+
+    const daysInCurrentMonth = dayjs(date).daysInMonth()
+    const currentMonth = dayjs(date).month() + 1
+    const currentYear = dayjs(date).year()
+
+    const daysToHighlight = []
+
+    for (let day = 1; day <= daysInCurrentMonth; day++) {
+      const currentDateStamp = (currentMonth + '/' + day + '/' + currentYear)
+
+      // get only the days of the month that actually have a reading passage defined
+      if (currentDateStamp in readingPlan && readingPlan[currentDateStamp].passage !== '') {
+        daysToHighlight.push(day)
+      }
+    }
+    
+    setHighlightedDays(daysToHighlight);
+    setIsLoading(false);
   };
 
   React.useEffect(() => {
@@ -84,19 +73,26 @@ export default function DateSelector({currentDate, readingPlan, onDateChanged}) 
       // because it is possible to switch between months pretty quickly
       requestAbortController.current.abort();
     }
-
+    
     setIsLoading(true);
     setHighlightedDays([]);
     fetchHighlightedDays(date);
   };
 
+  const handleOpen = () => {
+    // make sure that we clear out all of the highlighted days and re-generate
+    setIsLoading(true);
+    setHighlightedDays([]);
+    fetchHighlightedDays(currentDate);
+  }
+
   return (
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <MobileDatePicker
-        //defaultValue={currentDate}
         value={currentDate}
         loading={isLoading}
         onMonthChange={handleMonthChange}
+        onOpen={handleOpen}
         onChange={(value, context) => onDateChanged(value)}
         renderLoading={() => <DayCalendarSkeleton />}
         closeOnSelect
