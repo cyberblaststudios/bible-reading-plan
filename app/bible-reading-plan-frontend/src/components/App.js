@@ -148,7 +148,7 @@ export default function App(){
                     Nothing to read today. Go forth and share the Gospel!
                     </Typography> :
                     <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
-                        <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'}>
+                        <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'} paddingTop={'5%'} paddingBottom={'15%'}>
                             {
                                 isLoading && <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'}>
                                     <Skeleton variant='rounded' height={'2cm'}/>
