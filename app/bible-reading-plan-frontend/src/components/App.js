@@ -5,6 +5,7 @@ import { Box, CssBaseline, Skeleton, Stack, Typography } from '@mui/material';
 import dayjs from 'dayjs';
 import Reading from './Reading';
 import Video from './Video';
+import TopBar from './TopBar';
 
 const plan_server = origin + '/apiv1/bibleplan';
 
@@ -144,6 +145,8 @@ export default function App(){
     return (
         <ThemeProvider theme={darkTheme}>
             <CssBaseline/>
+            <TopBar/>
+            <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
                 { (readings.length <= 0 && !isLoading) ? <Typography sx={{left: 0, lineHeight: '10%', marginTop: 'auto', position: 'absolute', textAlign: 'center', top: '50%', width: '100%'}}>
                     Nothing to read today. Go forth and share the Gospel!
                     </Typography> :
@@ -172,7 +175,6 @@ export default function App(){
                         </Stack>
                     </Box>
                 }
-            <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
         </ThemeProvider>
     );
 }

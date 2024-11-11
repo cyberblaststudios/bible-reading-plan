@@ -1,1 +1,0 @@
-export const plan_server = origin + '/apiv1/bibleplan';

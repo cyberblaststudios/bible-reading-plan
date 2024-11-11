@@ -19,14 +19,14 @@ export default function BottomBar({readingPlan, currentSelectedDate, onDateChang
 
     return (
         <React.Fragment>
-            <AppBar position="fixed" color="primary" sx={{ top: 'auto', bottom: 0, alignItems: 'center'}}>
+            <AppBar position="sticky" color="primary" sx={{ top: 0, bottom: 'auto', alignItems: 'center'}}>
                 <Toolbar>
                     <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
-                        <IconButton color="inherit" onClick={previousDayClicked}>
+                        <IconButton color="inherit" onClick={previousDayClicked} sx={{scale: '1.5', marginRight: '5%'}}>
                             <ArrowLeftIcon />
                         </IconButton>
                             <DateSelector onDateChanged={(value) => onDateChanged(value)} currentDate={currentSelectedDate} readingPlan={readingPlan}/>
-                        <IconButton color="inherit" onClick={nextDayClicked}>
+                        <IconButton color="inherit" onClick={nextDayClicked} sx={{scale: '1.5', marginLeft: '5%'}}>
                             <ArrowRightIcon />
                         </IconButton>
                     </Box>
