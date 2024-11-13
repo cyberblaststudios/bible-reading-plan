@@ -13,7 +13,7 @@ const darkTheme = createTheme({
     palette: {
       mode: 'dark',
       primary: {
-        main: '#1976d2',
+        main: '#5782a1',
       },
 
     },
@@ -148,36 +148,39 @@ export default function App(){
     return (
         <ThemeProvider theme={darkTheme}>
             <CssBaseline/>
-            <TopBar/>
-            <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
-                { (readings.length <= 0 && !isLoading) ? <Typography sx={{left: 0, lineHeight: '10%', marginTop: 'auto', position: 'absolute', textAlign: 'center', top: '50%', width: '100%'}}>
-                Saturday and Sunday are days sweet side intentionally for you to catch up on any readings you've missed over the past few weeks. If you are up to date, take a break from your reading and spend some time in prayer for the GracePoint family!
-                    </Typography> :
-                    <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
-                        <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'} paddingTop={'5%'} paddingBottom={'15%'}>
-                            {
-                                isLoading && <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'}>
-                                    <Skeleton variant='rounded' height={'2cm'}/>
-                                    <Skeleton variant='rounded' height={'2cm'}/>
-                                    <Skeleton variant='rounded' height={'4cm'}/>
-                                    <Skeleton variant='rounded' height={'4cm'}/>
-                                    <Skeleton variant='rounded' height={'4cm'}/>
-                                    <Skeleton variant='rounded' height={'4cm'}/>
-                                </Stack>
-                            }
-                            {
-                                readings.map((item, index) => (
-                                    !isLoading ? <Reading key={index} reading={item.verseSeries} bibleLink={item.bibleLink}/> : null
-                                ))
-                            }
-                            {
-                                videos.map((item, index) => (
-                                    !isLoading ? <Video key={index} embedId={item}/> : null
-                                ))
-                            }
+            <Stack>
+                <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
+            </Stack>
+            <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
+                <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'} marginTop={'4cm'} marginBottom={'2cm'}>
+                    { 
+                        (readings.length <= 0 && !isLoading) ? <Typography variant='h4' align='center'>
+                        Saturday and Sunday are days set aside intentionally for you to catch up on any readings you've missed over the past few weeks.
+                        If you are up to date, take a break from your reading and spend some time in prayer for the GracePoint family!
+                            </Typography> : null
+                    }
+                    {
+                        isLoading && <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'}>
+                            <Skeleton variant='rounded' height={'2cm'}/>
+                            <Skeleton variant='rounded' height={'2cm'}/>
+                            <Skeleton variant='rounded' height={'4cm'}/>
+                            <Skeleton variant='rounded' height={'4cm'}/>
+                            <Skeleton variant='rounded' height={'4cm'}/>
+                            <Skeleton variant='rounded' height={'4cm'}/>
                         </Stack>
-                    </Box>
-                }
+                    }
+                    {
+                        readings.map((item, index) => (
+                            !isLoading ? <Reading key={index} reading={item.verseSeries} bibleLink={item.bibleLink}/> : null
+                        ))
+                    }
+                    {
+                        videos.map((item, index) => (
+                            !isLoading ? <Video key={index} embedId={item}/> : null
+                        ))
+                    }
+                </Stack>
+            </Box>
         </ThemeProvider>
     );
 }

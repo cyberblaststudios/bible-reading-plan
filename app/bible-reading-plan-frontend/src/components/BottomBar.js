@@ -3,6 +3,7 @@ import { AppBar, Box, IconButton, Toolbar } from "@mui/material";
 import { ArrowLeftIcon, ArrowRightIcon } from "@mui/x-date-pickers/icons";
 import DateSelector from "./DateSelector";
 import dayjs from 'dayjs';
+import logo from '../res/gpwhite.png'
 
 export default function BottomBar({readingPlan, currentSelectedDate, onDateChanged}) {
     function nextDayClicked(){
@@ -19,7 +20,12 @@ export default function BottomBar({readingPlan, currentSelectedDate, onDateChang
 
     return (
         <React.Fragment>
-            <AppBar position="sticky" color="primary" sx={{ top: 0, bottom: 'auto', alignItems: 'center'}}>
+            <AppBar position="fixed" color="primary" sx={{ alignItems: 'center'}}>
+                <Toolbar>
+                    <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
+                        <img src={logo} height={'auto'} width={'50%'}/>
+                    </Box>
+                </Toolbar>
                 <Toolbar>
                     <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
                         <IconButton color="inherit" onClick={previousDayClicked} sx={{scale: '1.5', marginRight: '5%'}}>
