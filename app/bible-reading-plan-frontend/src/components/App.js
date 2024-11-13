@@ -15,6 +15,7 @@ const darkTheme = createTheme({
       primary: {
         main: '#1976d2',
       },
+
     },
   });
 
@@ -79,7 +80,9 @@ function getVideoEmbedIds(readingPlan, currentDate) {
     const videoEmbedIds = []
 
     for (const videoFullLink of videoFullLinks) {
-        videoEmbedIds.push(videoFullLink.match(/youtu\.be\/([^?]*)/g))
+        if (videoFullLink !== "" && videoFullLink !== null) {
+            videoEmbedIds.push(videoFullLink.match(/http(?:s?):\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-_]*)(&(amp;)?‌​[\w\?‌​=]*)?/)[1])
+        }
     }
 
     return videoEmbedIds
@@ -148,7 +151,7 @@ export default function App(){
             <TopBar/>
             <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
                 { (readings.length <= 0 && !isLoading) ? <Typography sx={{left: 0, lineHeight: '10%', marginTop: 'auto', position: 'absolute', textAlign: 'center', top: '50%', width: '100%'}}>
-                    Nothing to read today. Go forth and share the Gospel!
+                Saturday and Sunday are days sweet side intentionally for you to catch up on any readings you've missed over the past few weeks. If you are up to date, take a break from your reading and spend some time in prayer for the GracePoint family!
                     </Typography> :
                     <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
                         <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'} paddingTop={'5%'} paddingBottom={'15%'}>
@@ -169,7 +172,7 @@ export default function App(){
                             }
                             {
                                 videos.map((item, index) => (
-                                    !isLoading ? <Video key={index} embedId={"GQI72THyO5I"}/> : null
+                                    !isLoading ? <Video key={index} embedId={item}/> : null
                                 ))
                             }
                         </Stack>

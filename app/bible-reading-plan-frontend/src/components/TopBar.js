@@ -1,6 +1,5 @@
 import * as React from 'react';
 import { AppBar, Box, Toolbar } from "@mui/material";
-import dayjs from 'dayjs';
 import logo from '../res/gpwhite.png'
 
 export default function TopBar({readingPlan, currentSelectedDate, onDateChanged}) {
