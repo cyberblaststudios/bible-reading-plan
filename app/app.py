@@ -21,7 +21,7 @@ def create_app(test_config=None):
     # serves the frontend
     @app.route('/')
     @app.route('/<path:path>')
-    def serve_frontend(path):
+    def serve_frontend(path=''):
         return app.send_static_file('index.html')
                              
     return app
