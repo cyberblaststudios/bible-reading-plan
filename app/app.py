@@ -5,7 +5,7 @@ from os import environ
 import requests
 
 FRONTEND_PATH = 'bible-reading-plan-frontend/build'
-IS_DEV = (environ["FLASK_ENV"] == "development")
+IS_DEV = (environ.get("FLASK_ENV", 'production') == "development")
 
 def create_app(test_config=None):
     # create and configure the app
