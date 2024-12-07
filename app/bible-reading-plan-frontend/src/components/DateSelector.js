@@ -123,7 +123,7 @@ export default function DateSelector({currentDate, readingPlan, onDateChanged}) 
             },
           }}
           sx={{
-            '.css-1dune0f-MuiInputBase-input-MuiOutlinedInput-input': 
+            '*': 
               {
                 color: '#f5f2ed', 
                 fontFamily: 'Proxima Nova'
