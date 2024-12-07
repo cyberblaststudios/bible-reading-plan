@@ -22,7 +22,7 @@ const pickerTheme = createTheme({
     text: {
       main: '#f5f2ed',
     }
-  }
+  },
 });
 
 // this will initialize to the current date
@@ -122,13 +122,14 @@ export default function DateSelector({currentDate, readingPlan, onDateChanged}) 
               highlightedDays,
             },
           }}
-          sx={{
-            '*': 
+          sx={
               {
-                color: '#f5f2ed', 
-                fontFamily: 'Proxima Nova'
-              }
-            }}
+                'input': {
+                fontFamily: 'Proxima Nova',
+                color: '#f5f2ed'
+              } 
+            }
+          }
         />
       </LocalizationProvider>
     </ThemeProvider>
