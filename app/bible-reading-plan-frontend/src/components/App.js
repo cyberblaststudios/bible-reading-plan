@@ -5,18 +5,30 @@ import { Box, CssBaseline, Skeleton, Stack, Typography } from '@mui/material';
 import dayjs from 'dayjs';
 import Reading from './Reading';
 import Video from './Video';
-import TopBar from './TopBar';
 
 const plan_server = origin + '/apiv1/bibleplan';
 
-const darkTheme = createTheme({
+const theme = createTheme({
     palette: {
-      mode: 'dark',
       primary: {
         main: '#5782a1',
       },
-
+      secondary: {
+        main: '#f5f2ed',
+      },
+      background: {
+        default: '#f5f2ed'
+      },
+      text: {
+        main: '#918a82',
+      }
     },
+    typography: {
+        allVariants: {
+            color: '#918a82',
+            fontFamily: 'Proxima Nova'
+        }
+    }
   });
 
 function getFormattedDate(dayJsDate){
@@ -146,7 +158,7 @@ export default function App(){
     }, [])
 
     return (
-        <ThemeProvider theme={darkTheme}>
+        <ThemeProvider theme={theme}>
             <CssBaseline/>
             <Stack>
                 <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
@@ -154,7 +166,7 @@ export default function App(){
             <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
                 <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'} marginTop={'4cm'} marginBottom={'2cm'}>
                     { 
-                        (readings.length <= 0 && !isLoading) ? <Typography variant='h4' align='center'>
+                        (readings.length <= 0 && !isLoading) ? <Typography variant='h5' align='center'>
                         Saturday and Sunday are days set aside intentionally for you to catch up on any readings you've missed over the past few weeks.
                         If you are up to date, take a break from your reading and spend some time in prayer for the GracePoint family!
                             </Typography> : null

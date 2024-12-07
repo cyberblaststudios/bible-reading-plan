@@ -4,7 +4,7 @@ import { styled } from '@mui/material/styles';
 
 
 const Item = styled(Paper)(({ theme }) => ({
-    backgroundColor: '#fff',
+    backgroundColor: '#fffff',
     ...theme.typography.body2,
     padding: theme.spacing(1),
     textAlign: 'center',
@@ -18,7 +18,7 @@ export default function Reading({reading, bibleLink}) {
     return (
         <Item>
             <a href={bibleLink} target="_blank" rel='noreferrer'>
-                <h3>{reading}</h3>
+                <h2>{reading}</h2>
             </a>
         </Item>
     );

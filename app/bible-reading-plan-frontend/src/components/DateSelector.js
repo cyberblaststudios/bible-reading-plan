@@ -6,7 +6,24 @@ import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 import { PickersDay } from '@mui/x-date-pickers/PickersDay';
 import { MobileDatePicker } from '@mui/x-date-pickers/MobileDatePicker';
 import { DayCalendarSkeleton } from '@mui/x-date-pickers/DayCalendarSkeleton';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
 
+const pickerTheme = createTheme({
+  palette: {
+    primary: {
+      main: '#5782a1',
+    },
+    secondary: {
+      main: '#f5f2ed',
+    },
+    background: {
+      default: '#f5f2ed'
+    },
+    text: {
+      main: '#f5f2ed',
+    }
+  }
+});
 
 // this will initialize to the current date
 const initialValue = dayjs();
@@ -21,7 +38,7 @@ function ServerDay(props) {
     <Badge
       key={props.day.toString()}
       overlap="circular"
-      badgeContent={isSelected ? '🔴' : undefined}
+      badgeContent={isSelected ? '🔵' : undefined}
     >
       <PickersDay {...other} outsideCurrentMonth={outsideCurrentMonth} day={day} />
     </Badge>
@@ -87,24 +104,33 @@ export default function DateSelector({currentDate, readingPlan, onDateChanged}) 
   }
 
   return (
-    <LocalizationProvider dateAdapter={AdapterDayjs}>
-      <MobileDatePicker
-        value={currentDate}
-        loading={isLoading}
-        onMonthChange={handleMonthChange}
-        onOpen={handleOpen}
-        onChange={(value, context) => onDateChanged(value)}
-        renderLoading={() => <DayCalendarSkeleton />}
-        closeOnSelect
-        slots={{
-          day: ServerDay,
-        }}
-        slotProps={{
-          day: {
-            highlightedDays,
-          },
-        }}
-      />
-    </LocalizationProvider>
+    <ThemeProvider theme={pickerTheme}>
+      <LocalizationProvider dateAdapter={AdapterDayjs}>
+        <MobileDatePicker
+          value={currentDate}
+          loading={isLoading}
+          onMonthChange={handleMonthChange}
+          onOpen={handleOpen}
+          onChange={(value, context) => onDateChanged(value)}
+          renderLoading={() => <DayCalendarSkeleton />}
+          closeOnSelect
+          slots={{
+            day: ServerDay,
+          }}
+          slotProps={{
+            day: {
+              highlightedDays,
+            },
+          }}
+          sx={{
+            '.css-1dune0f-MuiInputBase-input-MuiOutlinedInput-input': 
+              {
+                color: '#f5f2ed', 
+                fontFamily: 'Proxima Nova'
+              }
+            }}
+        />
+      </LocalizationProvider>
+    </ThemeProvider>
   );
 }
