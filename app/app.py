@@ -22,6 +22,9 @@ def create_app(test_config=None):
     @app.route('/')
     @app.route('/<path:path>')
     def serve_frontend(path=''):
-        return app.send_static_file('index.html')
+        if path != '':
+            return app.send_static_file(path)
+        else:
+            return app.send_static_file('index.html')
                              
     return app
