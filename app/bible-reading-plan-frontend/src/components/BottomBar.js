@@ -24,7 +24,7 @@ export default function BottomBar({readingPlan, currentSelectedDate, onDateChang
         <AppBar position="fixed" color="primary" sx={{ alignItems: 'center'}}>
             <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
                 <img src={logo} height={'auto'} width={'50%'} alt='GracePoint Logo'/>
-                <Button variant='text' LinkComponent={Link} href='./readingplan.pdf' download="readingplan.pdf" sx={{position: 'absolute', right: '0px'}}>
+                <Button variant='text' LinkComponent={Link} href='./readingplan.pdf' download="readingplan.pdf" sx={{position: 'absolute', right: '-30px', marginTop: '0%', scale: '40%'}}>
                     <img src={downloadIcon} alt='Download the reading plan as PDF button'/>
                 </Button>
             </Box>
