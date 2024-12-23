@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
-import BottomBar from './BottomBar';
+import TopBar from './TopBar';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { Box, CssBaseline, Skeleton, Stack, Typography } from '@mui/material';
 import dayjs from 'dayjs';
-import Reading from './Reading';
+import Card from './Card';
 import Video from './Video';
 
 const plan_server = origin + '/apiv1/bibleplan';
@@ -161,10 +161,13 @@ export default function App(){
         <ThemeProvider theme={theme}>
             <CssBaseline/>
             <Stack>
-                <BottomBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
+                <TopBar readingPlan={readingPlan} onDateChanged={onDateChanged} currentSelectedDate={selectedDate}/>
             </Stack>
             <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
                 <Stack spacing={2} alignSelf={'center'} width={'90%'} maxWidth={'20cm'} maxHeight={'100cm'} marginTop={'4cm'} marginBottom={'2cm'}>
+                    {
+                        !isLoading ? <Card linkText={"Get the hard copy of the reading plan"} linkURI={"./readingplan.pdf"}/> : null
+                    }
                     { 
                         (readings.length <= 0 && !isLoading) ? <Typography variant='h5' align='center'>
                         Saturday and Sunday are days set aside intentionally for you to catch up on any readings you've missed over the past few weeks.
@@ -183,7 +186,7 @@ export default function App(){
                     }
                     {
                         readings.map((item, index) => (
-                            !isLoading ? <Reading key={index} reading={item.verseSeries} bibleLink={item.bibleLink}/> : null
+                            !isLoading ? <Card key={index} linkText={item.verseSeries} linkURI={item.bibleLink}/> : null
                         ))
                     }
                     {

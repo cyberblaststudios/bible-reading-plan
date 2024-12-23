@@ -1,10 +1,9 @@
 import * as React from 'react';
-import { AppBar, Box, IconButton, Button, Link } from "@mui/material";
+import { AppBar, Box, IconButton} from "@mui/material";
 import { ArrowLeftIcon, ArrowRightIcon } from "@mui/x-date-pickers/icons";
 import DateSelector from "./DateSelector";
 import dayjs from 'dayjs';
 import logo from '../res/gpwhite.png'
-import downloadIcon from '../res/5623460_arrow_direction_down_download_pdf_icon.png'
 
 export default function BottomBar({readingPlan, currentSelectedDate, onDateChanged}) {
     function nextDayClicked(){
@@ -24,9 +23,6 @@ export default function BottomBar({readingPlan, currentSelectedDate, onDateChang
         <AppBar position="fixed" color="primary" sx={{ alignItems: 'center'}}>
             <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row'}}>
                 <img src={logo} height={'auto'} width={'50%'} alt='GracePoint Logo'/>
-                <Button variant='text' LinkComponent={Link} href='./readingplan.pdf' download="readingplan.pdf" sx={{position: 'absolute', right: '-30px', marginTop: '0%', scale: '40%'}}>
-                    <img src={downloadIcon} alt='Download the reading plan as PDF button'/>
-                </Button>
             </Box>
             <Box sx={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'row', paddingBottom: '5px'}}>
                 <IconButton color="inherit" onClick={previousDayClicked} sx={{scale: '1.5', marginRight: '5%'}}>

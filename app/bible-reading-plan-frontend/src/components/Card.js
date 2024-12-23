@@ -14,11 +14,11 @@ const Item = styled(Paper)(({ theme }) => ({
     }),
   }));
 
-export default function Reading({reading, bibleLink}) {
+export default function Card({linkText, linkURI}) {
     return (
         <Item>
-            <a href={bibleLink} target="_blank" rel='noreferrer'>
-                <h2>{reading}</h2>
+            <a href={linkURI} target="_blank" rel='noreferrer'>
+                <h2>{linkText}</h2>
             </a>
         </Item>
     );
